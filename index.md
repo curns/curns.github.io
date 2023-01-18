@@ -1,9 +1,11 @@
 ---
-title: i am curns
+title: hello
 ---
 
-# One
+# One[^1]
 Curabitur non tincidunt magna. Vestibulum venenatis libero sed tellus sagittis viverra. Sed nunc diam, dictum nec semper et, accumsan dapibus risus. Sed ac velit quis dolor semper hendrerit in eu lacus. Mauris sagittis leo sed magna consectetur, elementum aliquam magna pharetra. Maecenas quis nibh nec tortor euismod aliquet eu eget nulla. Suspendisse lectus lectus, tristique vitae mollis at, pellentesque nec magna.
 
 # Two
 Quisque fermentum leo erat, a condimentum odio eleifend ac. Vestibulum luctus quis dui sit amet laoreet. Donec dignissim vehicula dui eu tristique. Morbi bibendum vitae risus a tincidunt. Suspendisse lorem metus, pharetra at feugiat a, tristique a enim. Vivamus id leo dictum, ullamcorper nisl nec, rhoncus magna. Morbi a cursus neque. Aliquam condimentum convallis eros sit amet hendrerit. Nullam varius ante risus, a ultrices lacus condimentum laoreet.
+
+[^1] This is a little bit of experiementaion with github pages
