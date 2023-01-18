@@ -1,7 +1,9 @@
 author:
   name: Jon Curnow
 description: >
-  This is Jon's description.
+  This is Jon's description
+header_pages:
+  - about.md
 plugins:
   - jekyll-relative-links
 theme: minima
