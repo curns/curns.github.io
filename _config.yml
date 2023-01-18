@@ -18,3 +18,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+social_links:
+     - { platform: twitter,  user_url: "https://twitter.com/curns" 
