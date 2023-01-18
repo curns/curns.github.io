@@ -1,6 +1,7 @@
 title: i am curns
 author: Jon Curnow
 github_username: curns
+twitter_username: curns
 description: >
   This is Jon's description
 header_pages:
@@ -21,5 +22,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-social_links:
-     - { platform: twitter,  user_url: "https://twitter.com/curns" }
