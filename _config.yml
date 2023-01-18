@@ -6,7 +6,6 @@ description: >
   This is Jon's description
 header_pages:
   - about.md
-markdown: kramdown
 plugins:
   - jekyll-relative-links
 theme: minima
