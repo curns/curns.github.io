@@ -3,7 +3,7 @@ author: Jon Curnow
 github_username: curns
 twitter_username: curns
 description: >
-  This is <b>Jon's description<b>
+  This is Jon's description
 header_pages:
   - about.md
 plugins:
