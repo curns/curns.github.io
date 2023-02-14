@@ -17,11 +17,11 @@ Quisque fermentum[^2] leo erat, a condimentum odio eleifend ac. Vestibulum luctu
 </script>
 
 <p id="copyright">
-  &copy; Jon Curnow 2023. All rights reserved.
+  &copy;  All rights reserved.
 </p>
 -----
 
 #### Footnotes
------
+
 [^1]: This is a little bit of experiementaion with github pages
 [^2]: Another comment
