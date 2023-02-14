@@ -12,3 +12,12 @@ Quisque fermentum[^2] leo erat, a condimentum odio eleifend ac. Vestibulum luctu
 #### Footnotes <hr>
 [^1]: This is a little bit of experiementaion with github pages
 [^2]: Another comment
+
+```javascript
+const currentYear = new Date().getFullYear();
+const copyrightText = `© Your Name ${currentYear}. All rights reserved.`;
+document.querySelector('#copyright').textContent = copyrightText;
+```
+<p id="copyright">
+  &copy; Jon Curnow 2023. All rights reserved.
+</p>
