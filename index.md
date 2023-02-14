@@ -15,14 +15,14 @@ Quisque fermentum[^2] leo erat, a condimentum odio eleifend ac. Vestibulum luctu
 
 <script>
   const currentYear = new Date().getFullYear();
-  const copyrightText = `&copy; Your Name ${currentYear}. All rights reserved.`;
+  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved.`;
   document.querySelector('#copyright').innerHTML = copyrightText;
 </script>
 
 
 -----
 
-#### Footnotes
+### Footnotes
 
-[^1]: This is a little bit of experiementaion with github pages
+[^1]: This is a little bit of experimentation with github pages
 [^2]: Another comment
