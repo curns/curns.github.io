@@ -9,15 +9,19 @@ Curabitur[^1] non tincidunt magna. Vestibulum venenatis libero sed tellus sagitt
 ### Two
 Quisque fermentum[^2] leo erat, a condimentum odio eleifend ac. Vestibulum luctus quis dui sit amet laoreet. Donec dignissim vehicula dui eu tristique. Morbi bibendum vitae risus a tincidunt. Suspendisse lorem metus, pharetra at feugiat a, tristique a enim. Vivamus id leo dictum, ullamcorper nisl nec, rhoncus magna. Morbi a cursus neque. Aliquam condimentum convallis eros sit amet hendrerit. Nullam varius ante risus, a ultrices lacus condimentum laoreet.
 
-#### Footnotes <hr>
-[^1]: This is a little bit of experiementaion with github pages
-[^2]: Another comment
 
-```javascript
-const currentYear = new Date().getFullYear();
-const copyrightText = `© Your Name ${currentYear}. All rights reserved.`;
-document.querySelector('#copyright').textContent = copyrightText;
-```
+<script>
+  const currentYear = new Date().getFullYear();
+  const copyrightText = `&copy; Your Name ${currentYear}. All rights reserved.`;
+  document.querySelector('#copyright').innerHTML = copyrightText;
+</script>
+
 <p id="copyright">
   &copy; Jon Curnow 2023. All rights reserved.
 </p>
+-----
+
+#### Footnotes
+-----
+[^1]: This is a little bit of experiementaion with github pages
+[^2]: Another comment
