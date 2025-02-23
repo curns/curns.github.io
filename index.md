@@ -1,13 +1,9 @@
 ---
 layout: page
-title: 
+title: Intro
 ---
 
-## Intro
-
 Nunc in pretium enim. Maecenas lobortis risus non felis tempor, sit amet laoreet dolor consectetur. Nullam pharetra massa non auctor sollicitudin. Nullam eget posuere sapien, sed elementum nisl. Morbi luctus diam at ornare interdum. Suspendisse varius pretium elit et vestibulum.
-
-Nunc in pretium enim. Maecenas lobortis risus non felis tempor, sit amet laoreet dolor consectetur. Nullam pharetra massa non auctor sollicitudin. Nullam eget posuere sapien, sed elementum nisl. Morbi luctus diam at ornare interdum. Suspendisse varius pretium elit et vestibulum. 
 
 ### One
 Curabitur[^1] non tincidunt magna. Vestibulum venenatis libero sed tellus sagittis viverra. Sed nunc diam, dictum nec semper et, accumsan dapibus risus. Sed ac velit quis dolor semper hendrerit in eu lacus. Mauris sagittis leo sed magna consectetur, elementum aliquam magna pharetra. Maecenas quis nibh nec tortor euismod aliquet eu eget nulla. Suspendisse lectus lectus, tristique vitae mollis at, pellentesque nec magna.
