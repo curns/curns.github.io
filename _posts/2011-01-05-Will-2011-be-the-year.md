@@ -1,5 +1,6 @@
 ---
 layout: post 
+categories: radio
 title: "Will 2011 be the year that internet radio will pass traditional radio?"
 ---
 
