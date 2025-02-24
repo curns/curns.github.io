@@ -4,7 +4,7 @@ layout: post
 categories: radio
 ---
 
-> Last week, I was going through a box of paperwork and discovered a document from BBC Local Radio Publicity, providing some background to what BBC Local Radio was in January 1985. It’s an interesting take on Auntie’s view of its 31 local stations. I thought it might be worth preserving. Here’s the intro, but [the full document can be found here.](https://www.curnow.org/wp-content/uploads/2024/10/19850129_BackgroundToBBCLocalRadio_Red.pdf)
+> Last week, I was going through a box of paperwork and discovered a document from BBC Local Radio Publicity, providing some background to what BBC Local Radio was in January 1985. It’s an interesting take on Auntie’s view of its 31 local stations. I thought it might be worth preserving. Here’s the intro, but [the full document can be found here.](https://curns.github.io/assets/19850129_BackgroundToBBCLocalRadio_Red.pdf)
 
 ![da80db1dfaa152af39b20b6771e483ce](https://github.com/user-attachments/assets/79a4caf4-3f5b-4a9e-9c1d-9cf8c8c0ce9b)
 
