@@ -5,7 +5,8 @@ header_pages:
   - about.md
 plugins:
   - jekyll-relative-links
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 relative_links:
   enabled: true
   collections: true
