@@ -1,5 +1,5 @@
 ---
-title: "Danny Baker Shuts Up His Tree House"
+title: "Danny Baker Shuts Up His Treehouse"
 layout: post
 categories: radio
 ---
