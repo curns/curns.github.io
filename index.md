@@ -22,17 +22,6 @@ Quisque fermentum[^2] leo erat, a condimentum odio eleifend ac. Vestibulum luctu
 ### Three
 Nunc in pretium enim. Maecenas lobortis risus non felis tempor, sit amet laoreet dolor consectetur. Nullam pharetra massa non auctor sollicitudin. Nullam eget posuere sapien, sed elementum nisl. Morbi luctus diam at ornare interdum. Suspendisse varius pretium elit et vestibulum. 
 
-<p id="copyright" style="margin-bottom: 20px;">
-  &copy;  All rights reserved.
-</p>
-
-<script>
-  const currentYear = new Date().getFullYear();
-  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved.`;
-  document.querySelector('#copyright').innerHTML = copyrightText;
-</script>
-
-
 ### Footnotes
 
 [^1]: This is a little bit of experimentation with github pages
