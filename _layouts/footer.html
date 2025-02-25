@@ -29,7 +29,15 @@
         <p>{{- site.description | escape -}}</p>
       </div>
       <!-- Copyright -->
-      <script> const currentYear = new Date().getFullYear(); const copyrightText = `© Jon Curnow ${currentYear}. All rights reserved.`; document.querySelector('#copyright').innerHTML = copyrightText; </script>
+<p id="copyright" style="margin-bottom: 20px;">
+  &copy;  All rights reserved.
+</p>
+
+<script>
+  const currentYear = new Date().getFullYear();
+  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved.`;
+  document.querySelector('#copyright').innerHTML = copyrightText;
+</script>
     </div>
 
   </div>
