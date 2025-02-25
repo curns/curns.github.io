@@ -4,6 +4,16 @@
   <div class="wrapper">
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
+<!-- Copyright -->
+<p id="copyright" style="margin-bottom: 20px; text-align: left; color: #828282;">
+  &copy;  All rights reserved.
+</p>
+
+<script>
+  const currentYear = new Date().getFullYear();
+  const copyrightText = `&copy; ${currentYear}. All rights reserved.`;
+  document.querySelector('#copyright').innerHTML = copyrightText;
+</script>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -19,16 +29,7 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
-              <!-- Copyright -->
-<p id="copyright" style="margin-bottom: 20px; text-align: left; color: #828282;">
-  &copy;  All rights reserved.
-</p>
 
-<script>
-  const currentYear = new Date().getFullYear();
-  const copyrightText = `&copy; ${currentYear}. All rights reserved.`;
-  document.querySelector('#copyright').innerHTML = copyrightText;
-</script>
               
       </div>
 
