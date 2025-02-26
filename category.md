@@ -3,7 +3,6 @@ layout: page
 title: "categories"
 ---
 
-<h2>Categories</h2>
 <ul>
   {% for category in site.categories %}
     {% assign category_name = category[0] %}
