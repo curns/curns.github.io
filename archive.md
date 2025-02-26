@@ -5,7 +5,7 @@ title: "archive"
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="width: 48%;">
-    <h2>Posts by Category</h2>
+    <h3>Posts by Category</h3>
     <ul style="list-style-type: none; padding: 0;">
       {% for category in site.categories %}
         {% assign category_name = category[0] %}
@@ -20,7 +20,7 @@ title: "archive"
   </div>
 
   <div style="width: 48%;">
-    <h2>Posts by Year</h2>
+    <h3>Posts by Year</h3>
     <ul style="list-style-type: none; padding: 0;">
       {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
       {% for year in posts_by_year %}
