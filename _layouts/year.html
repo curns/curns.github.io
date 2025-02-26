@@ -10,8 +10,8 @@ layout: page
 {% for post in site.posts %}
   {% assign post_year = post.date | date: "%Y" %}
   {% if post_year == page.year %}
-    {% assign post_month_index = post.date | date: "%m" | plus: 0 %}  <!-- Convert "01" to 1 -->
-    {% assign month_name = months[post_month_index | minus: 1] %}  <!-- Get month name from array -->
+    {% assign post_month_index = post.date | date: "%m" | minus: 1 %}  <!-- Convert "01" to 1 -->
+    {% assign month_name = months[post_month_index] %}  <!-- Get month name from array -->
 
     {% if month_name != current_month %}
       {% if current_month != "" %}
