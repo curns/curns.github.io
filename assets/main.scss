@@ -397,7 +397,7 @@ SIL Open Font License, Version 1.1 (https://opensource.org/licenses/OFL-1.1)
 /* Define base font size and line height */
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 100%; /* Base font size */
+    font-size: 15px; /* Base font size */
     line-height: 1.714285714; /* Line height */
     color: #444; /* Text color */
     background-color: #fff; /* Background color */
@@ -505,11 +505,11 @@ button:hover {
 
 
 .page-content {
-  line-height: 200%;
+  line-height: 1.714285714;
 }
 
 .PageNavigation {
-  font-size: 14px;
+  font-size: 80%;
   display: block;
   width: auto;
   overflow: hidden;
