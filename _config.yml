@@ -3,6 +3,7 @@ author: Jon Curnow
 github_username: curns
 header_pages:
   - about.md
+  - category.md
 plugins:
   - jekyll-relative-links
   - jekyll-feed
