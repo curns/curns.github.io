@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro
+title: Hi
 ---
 
 Jon Curnow is a London-based product manager specialising in digital advertising solutions for publishers. He will often write about radio, here are a few examples.
