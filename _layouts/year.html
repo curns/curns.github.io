@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<h1>Posts from {{ page.year }}</h1>
-
 {% assign months = "January,February,March,April,May,June,July,August,September,October,November,December" | split: "," %}
 {% assign current_month = "" %}
 
@@ -18,7 +16,7 @@ layout: page
         </ul>  <!-- Close previous month's list -->
       {% endif %}
       
-      <h2>{{ month_name }}</h2>
+      <h4>{{ month_name }}</h4>
       <ul>
       {% assign current_month = month_name %}
     {% endif %}
