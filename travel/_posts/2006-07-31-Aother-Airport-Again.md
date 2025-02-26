@@ -3,7 +3,10 @@ title: "Another Airport Again"
 layout: post
 categories: travels
 ---
-[![Airport Taxi](http://static.flickr.com/68/203238623_79e20523fa_m.jpg)](http://www.flickr.com/photos/curns/203238623/ "Photo Sharing") I am taking another of my trips to Helsinki for work. Today I took the later flight, and I have to say that I am happy to have flown British Airways. I find there’s something reassuring about flying with [British Airways](http://www.ba.com) (but don’t ask me what). The woman sitting in front of me was sporting a pink cowboy hat for some reason (it was remarkably similar to [these I found on Flickr](http://www.flickr.com/photos/redbettyblack/17208203/)), but I don’t think the warm and comfy feeling came from that.
+
+[![Airport Taxi](http://static.flickr.com/68/203238623_79e20523fa_m.jpg)](http://www.flickr.com/photos/curns/203238623/ "Photo Sharing") 
+
+I am taking another of my trips to Helsinki for work. Today I took the later flight, and I have to say that I am happy to have flown British Airways. I find there’s something reassuring about flying with [British Airways](http://www.ba.com) (but don’t ask me what). The woman sitting in front of me was sporting a pink cowboy hat for some reason (it was remarkably similar to [these I found on Flickr](http://www.flickr.com/photos/redbettyblack/17208203/)), but I don’t think the warm and comfy feeling came from that.
 
 Given the late hour of our arrival, I imagine the cabin crew were spending the night in Helsinki too. Only on British Airways would you see them carrying a proper pint of milk with them. I can only dream of arriving at the hotel and making myself a decent cuppa!
 
