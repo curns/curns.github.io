@@ -3,9 +3,9 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+<!--    <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 <!-- Copyright -->
-<p id="copyright" style="margin-bottom: 20px; font-size: 80%; text-align: left; color: #828282;">
+<p id="copyright" style="margin-bottom: 20px; font-size: 90%; text-align: left; color: #828282;">
   &copy;  All rights reserved.
 </p>
 
@@ -15,6 +15,9 @@
   document.querySelector('#copyright').innerHTML = copyrightText;
 </script>
 
+    {%- include social.html -%}
+
+  <!-- original footer 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -42,7 +45,7 @@
       </div>
 
     </div>
-
+-->
 
 
   </div>
