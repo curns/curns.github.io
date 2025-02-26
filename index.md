@@ -17,11 +17,13 @@ Jon Curnow is a London-based product manager specialising in digital advertising
 
 <h1>Other</h1>
 <ul>
-  {% assign non_radio_posts = site.posts | reject: "categories", "radio" %}
+  {% assign other_posts = site.posts | sort: 'date' %}
   {% for post in other_posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>, ({{ post.date | date: "%B %Y" }})
-    </li>
+    {% unless post.categories contains "radio" %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>
 
