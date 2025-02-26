@@ -3,7 +3,7 @@ layout: page
 title: Hi
 ---
 
-Jon Curnow is a London-based product manager specialising in digital advertising solutions for publishers. He will often write about radio, here are a few examples.
+Jon Curnow is a London-based product manager specialising in digital advertising solutions for broadcasters. Across the web he often writes about radio, but not always. Here are some examples.
 
 <h1>Radio</h1>
 <ul>
