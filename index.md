@@ -21,7 +21,7 @@ Jon Curnow is a London-based product manager specialising in digital advertising
   {% for post in other_posts %}
     {% unless post.categories contains "radio" %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>, ({{ post.date | date: "%B %Y" }})
       </li>
     {% endunless %}
   {% endfor %}
