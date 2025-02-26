@@ -394,25 +394,113 @@ SIL Open Font License, Version 1.1 (https://opensource.org/licenses/OFL-1.1)
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-body { 
-font-family: 'Open Sans', sans-serif; 
-}
-
-body { 
-font-family: 'Open Sans', sans-serif; 
-}
-
+/* Define base font size and line height */
 body {
-  font: 16px / 24px "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px; /* Base font size */
+    line-height: 1.5; /* Line height */
+    color: #333; /* Text color */
+    background-color: #fff; /* Background color */
+    margin: 0;
+    padding: 0;
 }
 
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.2;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 2em; /* 32px */
+}
+
+h2 {
+    font-size: 1.75em; /* 28px */
+}
+
+h3 {
+    font-size: 1.5em; /* 24px */
+}
+
+h4 {
+    font-size: 1.25em; /* 20px */
+}
+
+h5 {
+    font-size: 1em; /* 16px */
+}
+
+h6 {
+    font-size: 0.875em; /* 14px */
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 1em;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 1em;
+    padding-left: 1.5em;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Code blocks */
+pre, code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f4f4f4;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
+
+/* Blockquotes */
 blockquote {
-    color: #828282;
-    border-left: 4px solid #e8e8e8;
-    padding-left: 15px;
-    font-size: 16px;
-    letter-spacing: -1px;
-    font-style:italic
+    margin: 1em 0;
+    padding-left: 1em;
+    border-left: 4px solid #ccc;
+    color: #666;
+}
+
+/* Forms */
+input, textarea, select, button {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005bb5;
 }
 
 
