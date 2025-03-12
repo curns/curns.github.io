@@ -8,7 +8,7 @@ star: false
 ---
 
 
-Regular readers (ha!) will know that I tend to keep track (or a copy) of significant postings I make [elsewhere]({% link /category/elsewhere.md %}) on this site so that I have a consolidated view of my various ramblings. Don’t ask me why.
+Regular readers (ha!) will know that I tend to keep track (or a copy) of significant postings I make [elsewhere](https://curns.github.io/category/elsewhere/) on this site so that I have a consolidated view of my various ramblings. Don’t ask me why.
 
 Earlier today, my friend Austin sent me a link to the video embedded here. My [original response](https://www.facebook.com/joncurnow/posts/10153517624446989) was on Facebook, but I’m saving it here because the video makes me smile.
 
