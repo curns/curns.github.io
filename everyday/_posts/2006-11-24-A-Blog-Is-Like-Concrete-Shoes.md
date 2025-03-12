@@ -2,6 +2,9 @@
 title: "A Blog Is Like Concrete Shoes"
 layout: post
 categories: everyday
+source: musak.org
+longform: true
+star: true
 ---
 
 [On Monday]({% post_url /entertainment/2006-11-20-Children-In-Need-Britains-Thanksgiving %}) I blew some of the cobwebs off the site and actually posted something of length that wasn’t a link to another site. I blamed the urge to write on reading *The Guardian* on my flight to Finland and that might be relevant, but I suspect it’s also something to do with the current state of the blogs I read.
