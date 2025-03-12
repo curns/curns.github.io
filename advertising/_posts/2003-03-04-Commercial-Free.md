@@ -2,6 +2,9 @@
 title: "Commercial Free"
 layout: post
 categories: advertising
+source: musak.org
+longform: true
+star: true
 ---
 
 There’s been an interesting discussion on the [UK Bloggers discussion list]([http://groups.yahoo.com/group/ukbloggers-discuss/](https://web.archive.org/web/20030412211116/http://groups.yahoo.com/group/ukbloggers-discuss/) "uk bloggers mailing list") today regarding online advertising and if it’s appropriate in the blogging world.
