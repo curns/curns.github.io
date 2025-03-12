@@ -28,7 +28,7 @@ He used to write a lot about radio, the first mass medium to really interest him
   {% endfor %}
 </ul>
 
-<!-- Other posts
+<!-- Other posts 
 
 <h1>Other</h1>
 <ul>
