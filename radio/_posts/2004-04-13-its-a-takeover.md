@@ -2,6 +2,9 @@
 title: "It's a takeover"
 layout: post
 categories: radio
+source: musak.org
+longform: true
+star: true
 ---
 
 As each day goes by I have a new found respect for the talents of Chris Moyles on the Radio One breakfast show. I’ve [noted before](https://www.curnow.org/2004/03/similarities-at-bbc-radio) that he’s the first presenter in a long time to get me to switch back to Radio One but almost everyday I find myself hooked into something about the show in a way I haven’t been hooked on the radio for a long time.
