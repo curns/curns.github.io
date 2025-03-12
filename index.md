@@ -3,7 +3,7 @@ layout: page
 title: hi
 ---
 
-Jon Curnow is a London-based product manager specialising in digital advertising solutions for broadcasters. Across the web he often writes about radio, but not always. Here are some examples.
+Jon Curnow is a London-based product manager specialising in digital advertising solutions for broadcasters. Across the web he's written about many things. Here' a sample of writing.
 
 <h1>Favourite Posts</h1>
 <ul>
@@ -16,6 +16,8 @@ Jon Curnow is a London-based product manager specialising in digital advertising
   {% endfor %}
 </ul>
 
+He used to write a lot about radio, the first mass medium to really interest him.
+
 <h1>Radio</h1>
 <ul>
   {% assign radio_posts = site.posts | where: "categories", "radio" | sort: 'date' %}
@@ -25,6 +27,8 @@ Jon Curnow is a London-based product manager specialising in digital advertising
     </li>
   {% endfor %}
 </ul>
+
+<!-- Other posts
 
 <h1>Other</h1>
 <ul>
@@ -37,6 +41,8 @@ Jon Curnow is a London-based product manager specialising in digital advertising
     {% endunless %}
   {% endfor %}
 </ul>
+
+-->
 
 <!-- original code 
 <ul>
