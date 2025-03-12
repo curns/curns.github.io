@@ -3,8 +3,6 @@ title: "Festen"
 categories: reviews
 layout: post
 ---
-<img width="705" alt="Festen_22abb1690608797f65ee5fd6bbe54f8b" src="https://github.com/user-attachments/assets/b1b39517-2c7a-4466-a9c2-c05c5df3e151" />
-
 [The Lyric Theatre](http://www.officiallondontheatre.co.uk/theatres/display?contentId=67261) on Shaftesbury Avenue is currently home to a production of [Festen](https://web.archive.org/web/20040923052836/http://www.whatsonstage.com/Festen/Pages/festenhomepage.htm), David Eldridge’s adaptation of the cult film by Thomas Vinterberg. The play, directed by Rufus Norris, no longer has the original cast, but I don’t think that matters: it’s a stunning piece of theatre.
 
 [thisistheatre.com sums it up well](https://web.archive.org/web/20230128130815/https://www.thisistheatre.com/londonshows/festen.html): Patriarch Helge Klingenfelt is celebrating his 60th birthday with his family at a magnificent old hotel in the Danish countryside. Gathered together are his loyal wife Elsa, his daughter Helene, and sons Christian and Michael. As the evening progresses, Christian feels compelled to break the silence surrounding a dark family secret. The effect is explosive and sets the tone for a celebration no one will forget! // [Source](https://web.archive.org/web/20230128130815/https://www.thisistheatre.com/londonshows/festen.html)
