@@ -5,6 +5,17 @@ title: hi
 
 Jon Curnow is a London-based product manager specialising in digital advertising solutions for broadcasters. Across the web he often writes about radio, but not always. Here are some examples.
 
+<h1>Favourite Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    {% if post.star %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d %b %Y" }})
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 <h1>Radio</h1>
 <ul>
   {% assign radio_posts = site.posts | where: "categories", "radio" | sort: 'date' %}
