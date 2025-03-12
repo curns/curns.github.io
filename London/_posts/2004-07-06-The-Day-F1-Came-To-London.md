@@ -2,6 +2,9 @@
 layout: post
 title: "The Day F1 Came To London"
 categories: London
+source: musak.org
+longform: false
+star: false
 ---
 
 ![2004_regentstreetf1_race1_s](https://github.com/user-attachments/assets/aaca3ad4-673e-436d-a4e0-6bca322c0822)
