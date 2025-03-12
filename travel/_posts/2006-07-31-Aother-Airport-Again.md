@@ -2,6 +2,9 @@
 title: "Another Airport Again"
 layout: post
 categories: travel
+source: musak.org
+longform: true
+star: false
 ---
 
 [![Airport Taxi](http://static.flickr.com/68/203238623_79e20523fa_m.jpg)](http://www.flickr.com/photos/curns/203238623/ "Photo Sharing") 
