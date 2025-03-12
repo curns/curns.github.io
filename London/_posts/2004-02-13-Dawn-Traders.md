@@ -2,6 +2,9 @@
 title: 'Dawn Traders'
 layout: post
 categories: London
+source: musak.org
+longform: true
+star: true
 ---
 
 Yesterday, I rose at 4 a.m. and took a taxi to [London’s Heathrow Airport](https://www.heathrow.com "link to the official site for Heathrow Airport"). This is not an uncommon thing for me to have to do. However, I must have been a little more awake than usual, as I started to pay attention to much more than I normally would on the drive to the airport.  
