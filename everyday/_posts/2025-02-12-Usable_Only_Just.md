@@ -2,6 +2,9 @@
 title: "Usable, but only just"
 layout: post
 categories: everyday
+source: curnow.org
+longform: true
+star: true
 ---
 ![IMG_3371](https://github.com/user-attachments/assets/77c85fab-92be-46ab-8e8f-b2bf04a46585)
 
