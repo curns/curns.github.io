@@ -7,7 +7,7 @@ Jon Curnow is a London-based product manager specialising in digital advertising
 
 <h1>Radio</h1>
 <ul>
-  {% assign radio_posts = site.posts | where: "categories", "radio" %}
+  {% assign radio_posts = site.posts | where: "categories", "radio" | sort: 'date' %}
   {% for post in radio_posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>, <span style="font-size: 14px; color: #828282;">({{ post.date | date: "%B %Y" }})</span>
