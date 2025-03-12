@@ -2,6 +2,9 @@
 title: "Give Us Our Daily Blog"
 layout: post
 categories: everyday
+source: musak.org
+longform: true
+star: false
 ---
 In common with any page of links, many of the pages noted below have long since moved, closed or ceased to be updated in any regular kind of way. Facebook and Twitter have meant some of those who I used to read have moved on to the next way to communicate their thoughts. I keep this here as a nice reminder of the early days of blogging! I've tried to link to archived versions of many of the sites.
 
