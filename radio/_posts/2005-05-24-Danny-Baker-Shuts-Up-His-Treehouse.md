@@ -2,6 +2,9 @@
 title: "Danny Baker Shuts Up His Treehouse"
 layout: post
 categories: radio
+source: musak.org
+longform: true
+star: false
 ---
 
 
