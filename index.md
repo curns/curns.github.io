@@ -5,7 +5,7 @@ title: hi
 
 Jon Curnow is a London-based product manager specialising in digital advertising solutions for broadcasters. Across the web he's written about many things. Here' a sample of writing.
 
-<h1>Favourite Posts</h1>
+<h1>Selected Posts</h1>
 <ul>
   {% for post in site.posts %}
     {% if post.star %}
