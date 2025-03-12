@@ -4,7 +4,7 @@ layout: post
 categories: everyday
 ---
 
-[On Monday]({% post_url /entertainment/2006/11/20/Children-In-Need-Britains-Thanksgiving %}) I blew some of the cobwebs off the site and actually posted something of length that wasn’t a link to another site. I blamed the urge to write on reading *The Guardian* on my flight to Finland and that might be relevant, but I suspect it’s also something to do with the current state of the blogs I read.
+[On Monday]({% post_url /entertainment/2006-11-20-Children-In-Need-Britains-Thanksgiving %}) I blew some of the cobwebs off the site and actually posted something of length that wasn’t a link to another site. I blamed the urge to write on reading *The Guardian* on my flight to Finland and that might be relevant, but I suspect it’s also something to do with the current state of the blogs I read.
 
 At various times on this site I have tried to avoid the term ‘blog’. I don’t really like it. Some people don’t like the word ‘moist’. It makes them feel a bit, well, icky (is that a word?). The term ‘blog’ does the same for me, but I shall have to seek therapy because these days everybody from the aforementioned [Guardian](https://web.archive.org/web/20061205031256/http://blogs.guardian.co.uk/index.html) to the [BBC](https://web.archive.org/web/20061007132554/http://blogs.telegraph.co.uk/) via [The Telegraph](https://web.archive.org/web/20061007132554/http://blogs.telegraph.co.uk/) and [The Economist](http://neweconomist.blogs.com/) seems to have a blog of some description. I am now embracing the word from this point on. Bloggety blog blog (see, cured).
 
