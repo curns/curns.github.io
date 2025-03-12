@@ -2,6 +2,9 @@
 title: "Your Weather Girls"
 layout: post
 categories: entertainment
+source: musak.org
+longform: true
+star: false
 ---
 
 I have been recovering from my trip to the USA by spending a great deal of today asleep and generally catching up on the mail, the Christmas cards, the washing and all the other things you need to do when you’ve been away for a week. It’s almost Saturday night, and I am going supermarket shopping (you see, dear reader, I have a very exciting life).  
