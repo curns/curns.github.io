@@ -1,8 +1,10 @@
 ---
-title: "Give Us Our Daily Blog"
+title: "Give us our daily blog"
 layout: post
 categories: everyday
 source: musak.org
+musak-url: "https://www.musak.org/2002/11/give-us-our-daily-blog/"
+curnow-url: "https://www.curnow.org/2002/11/give-us-our-daily-blog/"
 longform: true
 star: false
 ---

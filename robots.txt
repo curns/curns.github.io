@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /contents/
+Sitemap: https://curns.github.io/sitemap.xml

@@ -1,0 +1,13 @@
+{
+  "notes": [
+    "Key entries by repo-relative markdown path.",
+    "Set musak_url and/or curnow_url to a verified URL to override the automatic guesser.",
+    "Set a value to null to force a blank cell for that site."
+  ],
+  "overrides": {
+    "archive.md": {
+      "musak_url": "https://www.musak.org/archives/",
+      "curnow_url": "https://www.curnow.org/archive/"
+    }
+  }
+}

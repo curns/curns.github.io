@@ -1,14 +1,16 @@
 ---
-title: "Danny Baker Shuts Up His Treehouse"
+title: "Danny Baker shuts up his treehouse"
 layout: post
 categories: radio
 source: musak.org
+musak-url: "https://www.musak.org/2005/05/danny-baker-shuts-up-his-tree-house/"
+curnow-url: "https://www.curnow.org/2005/05/danny-baker-shuts-up-his-tree-house/"
 longform: true
 star: false
 ---
 
 
-So, I get back from my vacation and try to settle into my regular routine. Firstly, it’s disrupted by a [strike by BBC journalists](http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/4538929.stm "BBC employees are protesting at plans to cut 3,780 jobs and privatise parts of the corporation") although I was amused that somebody quipped you could hardly tell and thus proving they’re over-staffed anyway.
+So, I get back from my vacation and try to settle into my regular routine. Firstly, it’s disrupted by a [strike by BBC journalists](http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/4538929.stm "BBC employees are protesting at plans to cut 3,780 jobs and privatise parts of the corporation"), although I was amused that somebody quipped you could hardly tell and thus proving they are over-staffed anyway.
 
 I digress. What I came back to was the news that [Danny Baker won a Sony Radio Award](http://www.guardian.co.uk/uk_news/story/0,3604,1480081,00.html) and promptly went on to quit his breakfast show:
 
