@@ -1,8 +1,10 @@
 ---
-title: "The Grand Old Duke"
+title: "The grand old duke"
 categories: London
 layout: post
 source: musak.org
+musak-url: "https://www.musak.org/2003/01/the-grand-old-duke/"
+curnow-url: "https://www.curnow.org/2003/01/the-grand-old-duke/"
 longform: false
 star: true
 ---
@@ -12,6 +14,6 @@ It is often said that those of us who call London home do not benefit from the g
 
 It is a fascinating tour of the old London theatre, which was built when the area was underdeveloped and helped transform that side of Charing Cross Road into the entertainment area it is today. It’s the theatre that first staged [Peter Pan](http://www.literatureproject.com/peter-pan/), the theatre that first saw actors agree to the forming of [UK Equity](http://www.equity.org.uk/), and it has seen many greats play its stage since.
 
-I can now say that I have appeared on the West End stage, and standing on the stage looking into the auditorium, I was surprised at how close theatregoers would appear to the actors. I was also struck by how small the stage area really was and by how big the understage area is. Also intriguing to know that [Capital Radio](http://www.capitalradiogroup.com/) once owned it.
+I can now say that I have appeared on the West End stage, and standing on the stage looking into the auditorium, I was surprised at how close theatregoers would appear to the actors. I was also struck by how small the stage area really was and by how big the under stage area is. Also intriguing to know that [Capital Radio](http://www.capitalradiogroup.com/) once owned it.
 
 A lesson learned, that’s for sure. I will be spending more time each week with the what’s-on listings and trying to take advantage of some of the things this city has to offer.

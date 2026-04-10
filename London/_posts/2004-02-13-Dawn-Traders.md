@@ -1,8 +1,10 @@
 ---
-title: 'Dawn Traders'
+title: 'Dawn traders'
 layout: post
 categories: London
 source: musak.org
+musak-url: "https://www.musak.org/2004/02/dawn-traders/"
+curnow-url: "https://www.curnow.org/2004/02/dawn-traders/"
 longform: true
 star: true
 ---
@@ -13,7 +15,7 @@ At 5 a.m., London’s streets are far from deserted. In [Shrewsbury](http://web.
 
 I worked a milk round when I was younger. I am used to people being up and about in the still hours before most wake. This, however, was different. It was busy and, in places, bustling. Seeing a few people on the streets at that hour would not have been remarkable, but seeing so many was startling.  
 
-When you walk home late at night and see buildings still lit, you imagine that, just like you, they will soon settle into a dark sleep. Yet, as we sped through West London, I was struck by the number of buildings—offices and shops—with all their lights blazing. Many were shut but fully illuminated, as though some invisible nocturnal customers were going about their shopping. Offices glowed as if an army of night-time workers were invisibly seated at terminals, turning the wheels of trade. When walking home late at night, this seems normal, yet in the early hours before dawn, it feels eerie.  
+When you walk home late at night and see buildings still lit, you imagine that, just like you, they will soon settle into a dark sleep. Yet, as we sped through West London, I was struck by the number of buildings—offices and shops—with all their lights blazing. Many were shut but fully illuminated, as though some invisible nocturnal customers were going about their shopping. Offices glowed as if an army of nighttime workers were invisibly seated at terminals, turning the wheels of trade. When walking home late at night, this seems normal, yet in the early hours before dawn, it feels eerie.  
 
 Most unusually, there was a market stall selling, I think, fruit and vegetables. It was open and well-lit on one of the main roads heading westwards. I cannot imagine there was much trade, yet the stall was stocked, illuminated, and ready for the occasional passing customer. Who is the strange stallholder who works the dark hours, sitting by the street waiting for customers to buy his fruits? Shouldn’t he have been at New Covent Garden collecting his goods at that time, rather than sitting on a cold A-road with no passing trade?  
 

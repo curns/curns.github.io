@@ -1,8 +1,10 @@
 ---
-title: "Your Weather Girls"
+title: "Your weather girls"
 layout: post
 categories: entertainment
 source: musak.org
+musak-url: "https://www.musak.org/2003/12/hi-were-your-weather-girls/"
+curnow-url: "https://www.curnow.org/2003/12/hi-were-your-weather-girls/"
 longform: true
 star: false
 ---
@@ -15,4 +17,4 @@ While I managed to listen to the radio and some CDs, I did, eventually, resort t
 
 Interestingly, it occurred to me that it’s the video that looks a lot older than the music sounds. Allowing for the fact that *It’s Raining Men* is part of the soundtrack to my youth, I still think it’s the video technology that has made the most noticeable leaps in the last 20 years.  
 
-And it’s 20 years next March since *It’s Raining Men* was a hit for [The Weather Girls](https://web.archive.org/web/20040819065658/http://www.vh1.com/artists/az/weather_girls/bio.jhtml "Izora Rhodes and Martha Wash met in the San Francisco-based gospel group, NOW (News Of The World) prior to joining the backing group of rising disco star Sylvester."). Originally charting in the UK in August 1983, it eventually made number 2 in March 1984. It’s one of those songs that I would have sworn topped the charts but, apparently, not. I would imagine that a combination of Nena’s *[99 Red Balloons](https://web.archive.org/web/20040926084933/http://www.80smusiclyrics.com/artists/nena.htm "You and I in a little toy shop, Buy a bag of balloons with the money we've got")*, Lionel Richie’s *[Hello](https://web.archive.org/web/20040902083350/http://www.80smusiclyrics.com/artists/lionelrichie.htm "I've been alone with you inside my mind")*, and Duran Duran’s *[The Reflex](https://web.archive.org/web/20030924221210/http://www.allthelyrics.com/lyrics/duran_duran/seven_and_the_ragged_tiger/the_reflex/ "You've gone too far this time but I'm dancing on the valentine")* kept it from the number 1 slot.  
+And it’s 20 years next March since *It’s Raining Men* was a hit for [The Weather Girls](https://web.archive.org/web/20040819065658/http://www.vh1.com/artists/az/weather_girls/bio.jhtml "Izora Rhodes and Martha Wash met in the San Francisco-based gospel group, NOW (News Of The World) prior to joining the backing group of rising disco star Sylvester"). Originally charting in the UK in August 1983, it eventually made number 2 in March 1984. It’s one of those songs that I would have sworn topped the charts but, apparently, not. I would imagine that a combination of Nena’s *[99 Red Balloons](https://web.archive.org/web/20040926084933/http://www.80smusiclyrics.com/artists/nena.htm "You and I in a little toy shop, Buy a bag of balloons with the money we've got")*, Lionel Richie’s *[Hello](https://web.archive.org/web/20040902083350/http://www.80smusiclyrics.com/artists/lionelrichie.htm "I've been alone with you inside my mind")*, and Duran Duran’s *[The Reflex](https://web.archive.org/web/20030924221210/http://www.allthelyrics.com/lyrics/duran_duran/seven_and_the_ragged_tiger/the_reflex/ "You've gone too far this time but I'm dancing on the valentine")* kept it from the number 1 slot.  

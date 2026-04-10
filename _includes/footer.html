@@ -6,14 +6,17 @@
 <!--    <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 <!-- Copyright -->
 <p id="copyright" style="margin-bottom: 20px; font-size: 90%; text-align: left; color: #828282;">
-  &copy;  All rights reserved.
+  &copy;  
 </p>
 
 <script>
   const currentYear = new Date().getFullYear();
-  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved. Also at <a href="http://curnow.org">curnow.org</a>`;
+  const totalWords = {{ site.data.contents_links.total_word_count | default: 0 }};
+  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved. Made in Great Britain with ${totalWords} words. Also at <a href="http://curnow.org">curnow.org</a>`;
   document.querySelector('#copyright').innerHTML = copyrightText;
 </script>
+
+
 
   <!-- original footer 
     <div class="footer-col-wrapper">
@@ -51,4 +54,3 @@
 
 
 </footer>
-

@@ -1,8 +1,9 @@
 ---
-title: "From the 1985 archive: Background To BBC Local Radio"
+title: "From the 1985 archive: background to BBC Local Radio"
 layout: post
 categories: radio
 source: curnow.org
+curnow-url: "https://www.curnow.org/2024/10/from-the-1985-archive-background-to-bbc-local-radio/"
 longform: true
 star: true
 ---
@@ -12,7 +13,7 @@ star: true
 ![da80db1dfaa152af39b20b6771e483ce](https://github.com/user-attachments/assets/79a4caf4-3f5b-4a9e-9c1d-9cf8c8c0ce9b)
 
 
-## BACKGROUND TO BBC LOCAL RADIO
+## Background to BBC Local Radio
 
 The BBC has been committed to Local Radio since 1922 when it discovered what an excellent medium it was to celebrate local activities and bring neighbours in the community even closer together.
 
@@ -21,13 +22,13 @@ Before the war, there were not enough frequencies to go around. Local Radio had 
 The first station, BBC Radio Leicester, opened in 1967. Today there are 31 BBC Local Radio stations in England and the Channel Islands. There will be further editorial coverage in areas including Essex (opening in 1986), Suffolk, Warwickshire, Thames Valley, Surrey, Gloucestershire, Hereford and Worcester, Wiltshire, and Dorset.
 
 
-## THE STRENGTH OF BBC LOCAL RADIO
+## The strength of BBC Local Radio
 
 BBC Local Radio is in the front line of reporting. It broadcasts its own local stories, examines issues behind the headlines, and supplies news to BBC central newsrooms.
 
 On an average day in January, BBC Local Radio provided 25 news stories for the BBC’s national networks. These were broadcast in 35 news summaries. In addition, 10 interviews were heard on the main news bulletins of Radio 2 and Radio 4.
 
-The importance of BBC Local Radio news gathering has been re-emphasised during the miners’ strike when BBC Local Radio journalists fed national networks with live reports from the picket lines.
+The importance of BBC Local Radio news-gathering has been re-emphasised during the miners’ strike when BBC Local Radio journalists fed national networks with live reports from the picket lines.
 
 BBC Local Radio was at its best during the recent arctic conditions, said Sir Michael Barton, Controller of Local Radio. “Both television and national radio networks were advising people to tune to their BBC Local Radio stations for the latest news, which was being collated on special Snowline services.”
 
@@ -40,14 +41,14 @@ BBC Radio WM (West Midlands) ‘Helpline Service’ for the elderly was hailed a
 In the Channel Islands, BBC Radio Guernsey and BBC Radio Jersey kept broadcasting all day as the islands’ only communication service.
 
 
-## WHY IS BBC LOCAL RADIO SPECIAL?
+## Why is BBC Local Radio special?
 
 It is special because it gives listeners what they want – a speech-based information and entertainment service. BBC Local Radio is an integral part of community life – an adviser and job finder, and a lifeline in emergencies.
 
 > The document ends with a section about all the BBC “names” that had worked for BBC local radio. It’s a who’s who of its time.
 
 
-## BBC LOCAL RADIO – THE STARMAKERS
+## BBC Local Radio – the starmakers
 
 The chances are that when you see the television news, whether BBC or ITV, at least one of the newsreaders will have started their broadcasting career in BBC Local Radio. Many of the sports reporters on Radio 2, and Grandstand presenter Desmond Lynam, began covering the town sports.
 
@@ -66,6 +67,6 @@ Richard Skinner, Radio 1 DJ and a presenter of Whistle Test on BBC Television, w
 Many of the regional television presenters began their careers with BBC Local Radio stations, as did countless producers, on both radio and television in the BBC and commercial networks.
 
 
-## JANUARY 29, 1985
+## 29 January 1985
 
 The full document [can be found here](https://curns.github.io/assets/19850129_BackgroundToBBCLocalRadio_Red.pdf).

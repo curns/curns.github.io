@@ -3,6 +3,7 @@ title: "Usable, but only just"
 layout: post
 categories: everyday
 source: curnow.org
+curnow-url: "https://www.curnow.org/2025/02/usable-but-only-just/"
 longform: true
 star: true
 ---
