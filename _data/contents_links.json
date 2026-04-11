@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T21:59:32.664087+00:00",
-  "total_word_count": 9528,
+  "generated_at": "2026-04-11T00:17:23.056176+00:00",
+  "total_word_count": 10300,
   "entries": [
     {
       "title": "archive",
@@ -220,6 +220,19 @@
       "word_count": 283,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2016/03/software-downloads/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Stretching from slumber: morning light",
+      "github_url": "https://curns.github.io/london/2017/04/10/Stretching-From-Slumber-Morning-Light.html",
+      "source_path": "London/_posts/2017-04-10-Stretching-From-Slumber-Morning-Light.md",
+      "kind": "post",
+      "date": "2017-04-10",
+      "date_display": "10/04/2017",
+      "word_count": 772,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/04/stretching-from-slumber/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
