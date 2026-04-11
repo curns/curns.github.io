@@ -5,7 +5,7 @@ categories: reviews
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/01/review-palladium-panto-review/'
 longform: true
-star: false
+star: true
 ---
 ![Elaborate theatrical stage set for 'Sleeping Beauty' pantomime illuminated in vibrant pink, purple, and blue lighting, featuring ornate spinning wheels, clock towers, thread spools, gears, and Gothic architectural elements](https://www.curnow.org/wp-content/uploads/2026/01/IMG_7467-1024x576.jpeg)
 
