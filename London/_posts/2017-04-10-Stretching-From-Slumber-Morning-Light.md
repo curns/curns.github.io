@@ -5,7 +5,7 @@ categories: London
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2017/04/stretching-from-slumber/'
 longform: true
-star: false
+star: true
 ---
 The day’s first light has not quite made it above the horizon, but the dawn sky says it’s coming. The city’s suburbs are stretching themselves awake from their slumber. I’m travelling at just the right moment: the morning’s engines have not quite started, and the only thing slowing me down are the red traffic lights on the way, mainly stopping me for imaginary vehicles or invisible people.
 
