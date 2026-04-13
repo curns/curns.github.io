@@ -20,7 +20,7 @@ He used to write a lot about radio, the first mass medium to really interest him
 
 <h1>Radio</h1>
 <ul>
-  {% assign radio_posts = site.posts | where: "categories", "radio" | sort: 'date' %}
+  {% assign radio_posts = site.posts | where: "categories", "radio" | sort: 'date' | reverse %}
   {% for post in radio_posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>, <span style="font-size: 14px; color: #828282;">({{ post.date | date: "%B %Y" }})</span>
