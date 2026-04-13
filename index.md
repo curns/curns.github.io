@@ -28,28 +28,4 @@ He used to write a lot about radio, the first mass medium to really interest him
   {% endfor %}
 </ul>
 
-<!-- Other posts 
 
-<h1>Other</h1>
-<ul>
-  {% assign other_posts = site.posts | sort: 'date' %}
-  {% for post in other_posts %}
-    {% unless post.categories contains "radio" %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>, <span style="font-size: 14px; color: #828282;">({{ post.date | date: "%B %Y" }})</span>
-      </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
-
--->
-
-<!-- original code 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>, ({{ post.date | date: "%B %Y" }})
-    </li>
-  {% endfor %}
-</ul>
--->

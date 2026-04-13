@@ -23,4 +23,4 @@ I wonder what impact – if any – it will have on Radio One’s programmers? F
 
 Next time, however, let Chris Moyles appear to break it. That would be even better radio.
 
-UPDATE: The full 10-hour takeover playlist is available [on the Radio One site](http://web.archive.org/web/20040415083212/http://www.bbc.co.uk/radio1/djs/tenhour/10-11.shtml "takeover play list").
+UPDATE: The full 10-hour takeover playlist is available [on the Radio One site](http://web.archive.org/web/20040415083212/http://www.bbc.co.uk/radio1/djs/tenhour/10-11.shtml "takeover play list"). The [original piece](https://www.musak.org/2004/04/its-a-takeover/) contains some comments from Tom.
