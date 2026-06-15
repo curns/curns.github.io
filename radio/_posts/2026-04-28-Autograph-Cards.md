@@ -1,0 +1,57 @@
+---
+title: 'Autograph cards'
+layout: post
+categories: radio
+source: curnow.org
+curnow-url: 'https://www.curnow.org/2026/04/autograph-cards/'
+longform: true
+star: false
+---
+![A collage of overlapping black-and-white DJ autograph cards and station promotional flyers from British independent local radio stations of the 1980s. Visible stations include Radio Aire, 2CR Two Counties Radio (signed "Love Sally"), Invicta Radio ("Right Across the County"), Radio Mercury, Northsound Radio, Red Rose Radio, Pennine Radio / Yorkshire Radio Network, Northants 96, Signal Radio, Radio Trent 945, and Leicester Sound. Several cards feature partial photographs of DJs and handwritten dedications.](https://www.curnow.org/wp-content/uploads/2026/05/IMG_8832-1024x576.jpeg)
+
+*Local radio in the 1980s*
+
+When I was in Shrewsbury last weekend, at the house I grew up in, I ventured into the loft to rummage through some tea chests still stored there. They’re proper old-fashioned tea chests and were used to pack our belongings when we moved in the early 1980s. They make great storage boxes in the loft, and still seem solid and robust to this day.
+
+As I rummaged, I found a plastic bag all sealed with sellotape marked ‘radio autograph cards’. I have no recollection of this bag, so I opened it and uncovered almost 100 DJ cards; the kind of thing that radio stations would send out when somebody wrote in asking for a DJ’s autograph. To this day, there’s a box behind where I work containing radio cards from stations I used to listen to regularly. But this set was different.
+
+What struck me about this group was that there are 14 radio stations represented in the collection, from Northsound Radio at the top of Scotland, via Pennine Radio, Radio Trent, Chiltern (Bedfordshire, Northamptonshire, Hertfordshire, Buckinghamshire), County Sound, Radio Mercury around London, to Invicta Sound on the south coast. None of those stations could be received where I lived. There are cards from Red Rose, Signal and Beacon, which I could hear but didn’t listen to that often, but the vast majority were of people I never listened to on stations I never heard. And yet, the stations would still send these out to any radio fanatic who wrote a letter. As a kid, I thought it was amazing to get all the cards from across the country.
+
+I should note it’s not 100 unique cards; there is some duplication, but not a lot. They’re all more-or-less A6-sized, although I can’t work out why 2CRs are taller than all the others, and Pennine Radio’s smaller. Although Pennnie’s are co-branded ‘Yorkshire Radio Network‘, which dates them back to sometime between 1987 and 1989, if [this rather sparse Wikipedia page](https://en.wikipedia.org/wiki/Yorkshire_Radio_Network) is to be believed. They are also the only ones where you can peel off the back and stick [Tim Finlay](https://www.aircheckdownloads.com/uk-airchecks/yorkshire-radio-network/1980s/launch-tim-finlay-may-18th-1987-724), or any other presenter of choice, to something.
+
+I suspect they are all from around that time. It’s fun to look back at them now and see what they tell us about the world in the 80s.
+
+The majority are black and white, but Invicta, Red Rose and some Signal cards are in colour, so cost is a major concern when you’re printing thousands of these things to hand out from reception or on roadshow days. Some are stiffer card or better paper stock, some have a bit of a glossy feel, while Mercia’s Jeff Harris is in full colour, but on a folded bit of paper with an ad for Prontaprint branches around the Coventry area on the front. Signal stuck an ad for Pennie Kitchen Studios (“North Staffs Biggest & Best Kitchen Specialists”) on the back of some of them, whereas Red Rose have a 7Up sponsor logo and a “photograph by Images of Preston” on theirs, which might explain how they can invest in full-colour cards.
+
+-
+  ![Radio Autograph Card for 2CR's Sally Winter](https://www.curnow.org/wp-content/uploads/2026/05/Card-2CR-SallyWinter-629x1024.jpg)
+-
+  ![Radio Autograph Card for Chiltern Radio's Bill Young](https://www.curnow.org/wp-content/uploads/2026/05/Card-Chiltern-BillYoung-726x1024.jpg)
+-
+  ![Radio Autograph Card for Chiltern Radio's Martin Collins](https://www.curnow.org/wp-content/uploads/2026/05/Card-Chiltern-MartinCollins-729x1024.jpg)
+-
+  ![Radio Autograph Card for Country Sound Radio's mascot, Brewster Mouse](https://www.curnow.org/wp-content/uploads/2026/05/Card-CountySound-BrewsterMouse-1024x724.jpg)
+-
+  ![Radio Autograph Card for Invicta Radio's Roger Day](https://www.curnow.org/wp-content/uploads/2026/05/Card-Invicta-RogerDay-700x1024.jpg)
+-
+  ![Radio Autograph Card for Northsound Radio's Mike Holloway](https://www.curnow.org/wp-content/uploads/2026/05/Card-Northsound-MikeHolloway-676x1024.jpg)
+-
+  ![Radio Autograph Card for Red Rose Radio's Derek Webster](https://www.curnow.org/wp-content/uploads/2026/05/Card-RedRose-DerekWebster-711x1024.jpg)
+-
+  ![Radio Autograph Card for Radio Mercury's Ed Stewart](https://www.curnow.org/wp-content/uploads/2026/05/Card-RadioMercury-EdStewart-693x1024.jpg)
+-
+  ![Radio Autograph Card for Pennine Radio's Tim Finlay](https://www.curnow.org/wp-content/uploads/2026/05/Card-PennineRadio-TimFinlay-1024x655.jpg)
+
+Many are blank on the back; I guess one-sided printing was cheaper. The Chiltern group cards have a mini biography on the reverse, and it’s how I know [Martin Collins’](https://www.mixcloud.com/genres/martin-collins/) hobbies include water skiing and holidays, and that [Paul McKenna](https://www.mixcloud.com/karl-burtonshaw/the-paul-mckenna-breakfast-show-chiltern-radio-963-fm-1988/) was a 23-year-old bachelor when the photo was taken, with no mention of hypnotism. Radio Mercury uses the reverse to promote a list of available station souvenirs, from ballpoint pens and headphone bugs to “tee shirts” and “sweat shirts”, but sadly no prices, which would be fascinating to read today. The reverse of all the Invicta cards is laid out like a proper postcard with space for a message and an address, and a square in the top right for the stamp. I wonder if, when rebelling on the pirate ships, [Roger Day](https://www.mixcloud.com/BJleDJ/roger-day-solid-gold-saturday-invicta-sound-17-november-1984/) thought he might end up as a photograph on the front of a postcard? I wonder who got posted around Kent more, Roger, or Julie Jambuster (was that her real name)?
+
+Roger Day wears a tie in that photo, as do a good number of the presenters, which I think shows that the 1980s still thought professionalism meant a tie. [Signal Radio’s Alex Roland](https://www.aircheckdownloads.com/uk-airchecks/signal-radio-stoke-trent/1980s/alex-rowland-dec-1987-519) is sporting the uniform of most 80s radio presenters, the silk-effect bomber jacket with his name embroidered on the front. [Red Rose’s Keith Macklin](https://soundcloud.com/curns/red-rose-radio-closedown-audio-from-1983) is in a suit, but perched on the side of a stand at what I assume is some local football stadium. Anton Andrews, of the same station, is photographed on top of a tank, his colleague Sally Moon, whistfully looking back, on a chair, while [Derek Wbster](https://derekblogster.wordpress.com/tag/red-rose-radio/) is in front of a [road sign](https://derekblogster.wordpress.com/2026/03/08/radio-days/), holding a map. I wonder what that had to do with his presentation of *Just The Tonic*? Red Rose’s John Gillmore is the only one to have a comedy photograph, with the front of the card showing his back and his beaming face printed on the reverse, “Yes, it’s Gilly!”
+
+Of course, a good few people are pictured in radio studios. 2CR’s Sally Winter is in front of the control desk answering the phone, while [Northsound’s Bobby Hain](https://wiki.scotlandonair.com/wiki/Bobby_Hain) is also in front of a desk but not pretending to be on the telephone. His very thin tie shouts 1980s. Chiltern’s Tom Hardy, “lives in Luton and is Head of Music,” and his “family man” colleague, [Bill Young](https://youtu.be/_b0yap7JRPw?si=u12QdKNc7Zd9YP6x&t=80), are both pictured with a pair of industry-standard Beyerdynamic headphones around their necks. Any self-respecting radio presenter of the period would have at least one headshot with those headphones in their collection.
+
+At the time, all the names would have been known locally, but I would have known very few of them. Some, like Mercury’s Ed Stewart and the aforementioned Roger Day, were big stars from other stations earlier in their careers. Others, like Chiltern’s Collins and McKenna, would go on to have national platforms, and more are very well-known names in the radio industry. Only one is not of a real person. County Sound’s Brewster Mouse looks delightful in the photo on the card, but in a picture somebody posted to Facebook, it’s human-sized and dwarfs small children, and I can’t see how that wasn’t terrifying.
+
+While I called this post “Autograph Cards,” very few are autographed, though a small number are. There’s a “best wishes” and a “love”, and most look genuinely signed. County Sound’s Mark Walker either had a pen that matched the print’s blue colour, or it was part of the card.
+
+But, I think, the only card that truly meets expectations, a solid black and white photograph, decent paper stock, no sponsor branding and taken in front of the pile of station “carts” and, most importantly, is personalised with an “all the best Jonathan” is [Northsound’s Mike Holloway](https://mail.aircheckdownloads.com/uk-airchecks/northsound-radio-aberdeen/1980s/mike-holloway-apr-24th-1985-235). I’m sorry I lived too far south to ever hear you across Aberdeen, Mike, but thanks for taking the time to make my day. Because I know for sure, whatever these cards look like now, back when I opened the envelope to see them, they were, to me, better than getting that missing Panini soccer sticker.
+
+Today’s question is, “Are they worth preserving?” They are a snapshot of a bygone era. There must have been thousands of these in circulation. What should I do with them?
