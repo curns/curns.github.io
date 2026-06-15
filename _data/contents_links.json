@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T12:17:05.974060+00:00",
-  "total_word_count": 14882,
+  "generated_at": "2026-06-15T15:01:48.003359+00:00",
+  "total_word_count": 15587,
   "entries": [
     {
       "title": "archive",
@@ -350,6 +350,19 @@
       "word_count": 1313,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/04/autograph-cards/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Dark of the Moon",
+      "github_url": "https://curns.github.io/reviews/2026/06/03/Dark-of-the-Moon.html",
+      "source_path": "reviews/_posts/2026-06-03-Dark-of-the-Moon.md",
+      "kind": "post",
+      "date": "2026-06-03",
+      "date_display": "03/06/2026",
+      "word_count": 705,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/dark-of-the-moon/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
