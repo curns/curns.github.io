@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T11:27:18.888727+00:00",
-  "total_word_count": 13569,
+  "generated_at": "2026-06-15T11:59:37.357151+00:00",
+  "total_word_count": 14948,
   "entries": [
     {
       "title": "archive",
@@ -337,6 +337,19 @@
       "word_count": 747,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/01/review-palladium-panto-review/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Autograph cards",
+      "github_url": "https://curns.github.io/radio/2026/04/28/Autograph-Cards.html",
+      "source_path": "radio/_posts/2026-04-28-Autograph-Cards.md",
+      "kind": "post",
+      "date": "2026-04-28",
+      "date_display": "28/04/2026",
+      "word_count": 1379,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/04/autograph-cards/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
