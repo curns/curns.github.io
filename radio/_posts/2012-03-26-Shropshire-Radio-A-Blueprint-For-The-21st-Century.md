@@ -7,7 +7,7 @@ curnow-url: 'https://www.curnow.org/2012/03/shropshire-radio-a-blueprint-for-the
 longform: true
 star: false
 ---
-![](https://www.curnow.org/wp-content/blogimages/2012/03/BeaconShropshire-300x100.jpg)
+![](/assets/beacon-shropshire-300x100.jpg)
 
 When I lived in Shrewsbury in the mid/late eighties, there wasn’t much choice on the radio dial. Every station was aimed at a neighbouring region (Marcher, Beacon, Wyvern and Signal surrounded us). But nothing for the good people of Shropshire.
 
