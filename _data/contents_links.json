@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T00:45:38.356793+00:00",
-  "total_word_count": 11047,
+  "generated_at": "2026-06-15T11:27:18.888727+00:00",
+  "total_word_count": 13569,
   "entries": [
     {
       "title": "archive",
@@ -113,7 +113,7 @@
       "kind": "post",
       "date": "2004-04-13",
       "date_display": "13/04/2004",
-      "word_count": 567,
+      "word_count": 575,
       "musak_url": "https://www.musak.org/2004/04/its-a-takeover/",
       "curnow_url": "https://www.curnow.org/2004/04/its-a-takeover/",
       "musak_match": "front-matter",
@@ -156,6 +156,19 @@
       "musak_url": "https://www.musak.org/2005/05/danny-baker-shuts-up-his-tree-house/",
       "curnow_url": "https://www.curnow.org/2005/05/danny-baker-shuts-up-his-tree-house/",
       "musak_match": "front-matter",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "What are page impressions?",
+      "github_url": "https://curns.github.io/advertising/2006/06/15/What-Are-Page-Impressions.html",
+      "source_path": "advertising/_posts/2006-06-15-What-Are-Page-Impressions.md",
+      "kind": "post",
+      "date": "2006-06-15",
+      "date_display": "15/06/2006",
+      "word_count": 862,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2006/06/what-are-page-impressions/",
+      "musak_match": "not-found",
       "curnow_match": "front-matter"
     },
     {
@@ -211,6 +224,19 @@
       "curnow_match": "front-matter"
     },
     {
+      "title": "Shropshire radio: a blueprint for the 21st Century?",
+      "github_url": "https://curns.github.io/radio/2012/03/26/Shropshire-Radio-A-Blueprint-For-The-21st-Century.html",
+      "source_path": "radio/_posts/2012-03-26-Shropshire-Radio-A-Blueprint-For-The-21st-Century.md",
+      "kind": "post",
+      "date": "2012-03-26",
+      "date_display": "26/03/2012",
+      "word_count": 984,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2012/03/shropshire-radio-a-blueprint-for-the-21st-century/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
       "title": "The original app store was your TV (or radio)",
       "github_url": "https://curns.github.io/elsewhere/2016/03/24/The-Original-App-Store-Was-Your-TV.html",
       "source_path": "elsewhere/_posts/2016-03-24-The-Original-App-Store-Was-Your-TV.md",
@@ -233,6 +259,19 @@
       "word_count": 772,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2017/04/stretching-from-slumber/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Happy birthday BBC Shropshire",
+      "github_url": "https://curns.github.io/radio/2017/04/23/Happy-Birthday-BBC-Shropshire.html",
+      "source_path": "radio/_posts/2017-04-23-Happy-Birthday-BBC-Shropshire.md",
+      "kind": "post",
+      "date": "2017-04-23",
+      "date_display": "23/04/2017",
+      "word_count": 668,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/04/happy-birthday-bbc-shropshire/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
