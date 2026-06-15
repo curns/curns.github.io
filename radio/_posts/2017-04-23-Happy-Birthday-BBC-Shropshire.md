@@ -7,7 +7,7 @@ curnow-url: 'https://www.curnow.org/2017/04/happy-birthday-bbc-shropshire/'
 longform: true
 star: false
 ---
-![BBC Radio Shropshire logo, 1985](https://www.curnow.org/wp-content/uploads/2017/04/BBC_Radio_Shropshire_Something_Special-278x300.png)
+![BBC Radio Shropshire logo, 1985](/assets/bbc-radio-shropshire-something-special.png)
 
 *Something Special in Shropshire*
 
