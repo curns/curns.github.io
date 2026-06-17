@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T17:42:39.079162+00:00",
-  "total_word_count": 16497,
+  "generated_at": "2026-06-17T23:04:15.885253+00:00",
+  "total_word_count": 17217,
   "entries": [
     {
       "title": "archive",
@@ -376,6 +376,19 @@
       "word_count": 910,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/06/beverley-knight-storytelling-soul/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Showtown: Blackpool History",
+      "github_url": "https://curns.github.io/reviews/2026/06/07/Showtown-Blackpool-History.html",
+      "source_path": "reviews/_posts/2026-06-07-Showtown-Blackpool-History.md",
+      "kind": "post",
+      "date": "2026-06-07",
+      "date_display": "07/06/2026",
+      "word_count": 720,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/showtown-blackpool-history/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
