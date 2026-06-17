@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T15:01:48.003359+00:00",
-  "total_word_count": 15587,
+  "generated_at": "2026-06-17T17:42:39.079162+00:00",
+  "total_word_count": 16497,
   "entries": [
     {
       "title": "archive",
@@ -363,6 +363,19 @@
       "word_count": 705,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/06/dark-of-the-moon/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Beverley Knight: Storytelling Soul",
+      "github_url": "https://curns.github.io/entertainment/2026/06/06/Beverley-Knight-Storytelling-Soul.html",
+      "source_path": "entertainment/_posts/2026-06-06-Beverley-Knight-Storytelling-Soul.md",
+      "kind": "post",
+      "date": "2026-06-06",
+      "date_display": "06/06/2026",
+      "word_count": 910,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/beverley-knight-storytelling-soul/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
