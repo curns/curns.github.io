@@ -1,8 +1,7 @@
 ---
-title: "Festival Diaries 2025: Day Two"
+title: "Festival diaries 2025, day two"
 layout: post
 date: 2025-06-21 22:27:00 +0000
-modified_date: 2025-07-08
 categories: isle-of-wight-festival
 category_label: "Isle of Wight Festival"
 tags:
@@ -15,10 +14,10 @@ longform: true
 star: false
 ---
 <div class="festival-gallery">
-<figure><a href="/assets/isle-of-wight-festival/2025/IMG_4295.jpeg"><img alt="Mae Muller performs on stage at the 2025 Isle of Wight Festival, singing into a microphone while wearing a dark crop top and light-coloured shorts. Behind her, a guitarist in a grey shirt plays a mint green electric guitar. The stage backdrop features large silver lettering spelling &quot;MAEMU&quot; (part of the artist&#x27;s name), and stage rigging and equipment are visible on the left side of the frame. The performance captures a dynamic moment during the live set at the festival." height="674" loading="lazy" src="/assets/isle-of-wight-festival/2025/IMG_4295.jpeg" width="1200"/></a></figure>
-<figure><a href="/assets/isle-of-wight-festival/2025/IMG_4328.jpeg"><img alt="The Queenbees perform on stage at the 2025 Isle of Wight Festival, featuring four female performers in matching black and yellow outfits. The stage backdrop displays a vibrant, psychedelic carnival-style design with swirling patterns, stars, and colourful artwork. The performers are positioned across the stage with microphones, backed by a full drum kit and Marshall amplifiers." height="900" loading="lazy" src="/assets/isle-of-wight-festival/2025/IMG_4328.jpeg" width="1200"/></a></figure>
 <figure><a href="/assets/isle-of-wight-festival/2025/IMG_4337.jpeg"><img alt="Paul Heaton performs on stage at the 2025 Isle of Wight Festival with his band. The stage backdrop features a bold red design with &quot;WELCOME TO HEATONGRAD&quot; displayed in large yellow letters, alongside a portrait of a man wearing glasses in a halftone print style. The full band setup includes drums, guitars, and brass instruments, with multiple musicians positioned across the stage." height="900" loading="lazy" src="/assets/isle-of-wight-festival/2025/IMG_4337.jpeg" width="1200"/></a></figure>
+<figure><a href="/assets/isle-of-wight-festival/2025/IMG_4328.jpeg"><img alt="The Queenbees perform on stage at the 2025 Isle of Wight Festival, featuring four female performers in matching black and yellow outfits. The stage backdrop displays a vibrant, psychedelic carnival-style design with swirling patterns, stars, and colourful artwork. The performers are positioned across the stage with microphones, backed by a full drum kit and Marshall amplifiers." height="900" loading="lazy" src="/assets/isle-of-wight-festival/2025/IMG_4328.jpeg" width="1200"/></a></figure>
 </div>
+
 
 <p>Day Two started off with a bit of a curveball, finding ourselves at the Sky Lounge just as an unexpected light rain shower decided to make an appearance. We had a seat but no shelter. I had a beer, and PY did not have the cocktail he wanted from the bar menu.</p>
 

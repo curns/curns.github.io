@@ -1,8 +1,7 @@
 ---
-title: "Festival Diaries 2025: Day One"
+title: "Festival diaries 2025, day one"
 layout: post
 date: 2025-06-20 22:08:00 +0000
-modified_date: 2025-07-08
 categories: isle-of-wight-festival
 category_label: "Isle of Wight Festival"
 tags:
@@ -15,7 +14,6 @@ longform: true
 star: false
 ---
 <div class="festival-gallery">
-<figure><a href="/assets/isle-of-wight-festival/2025/IMG_4277.jpeg"><img alt="A large Ferris wheel silhouetted against a golden sunset sky at the 2025 Isle of Wight Festival. The wheel&#x27;s passenger gondolas are clearly visible around its circumference, with the sun positioned dramatically behind and to the right of the structure. Festival-goers can be seen gathered at the base of the ride, whilst trees and other festival infrastructure create a dark silhouette against the warm, orange-tinted evening sky. The atmospheric lighting captures the classic festival atmosphere during the golden hour." height="900" loading="lazy" src="/assets/isle-of-wight-festival/2025/IMG_4277.jpeg" width="1200"/></a></figure>
 <figure><a href="/assets/isle-of-wight-festival/2025/A535D142-128D-4535-B1EC-076181B01557.jpeg"><img alt="A large crowd of festival-goers watches Amy McDonald perform on the main stage at the 2025 Isle of Wight Festival. The stage features vibrant pink and blue lighting effects with &quot;ISLE OF WIGHT FESTIVAL&quot; prominently displayed across the top, along with Sky branding. The performer can be seen on stage with an acoustic guitar, backed by colourful visual displays. The audience, wearing a mix of caps, hats, and summer clothing, fills the foreground of the image, creating the typical atmosphere of a major music festival performance." height="960" loading="lazy" src="/assets/isle-of-wight-festival/2025/A535D142-128D-4535-B1EC-076181B01557.jpeg" width="1200"/></a></figure>
 <figure><a href="/assets/isle-of-wight-festival/2025/IMG_4260.jpeg"><img alt="A performer in a red sequined outfit and sunglasses plays a keytar on stage at the 2025 Isle of Wight Festival. A red triangular banner reading &quot;SOPHIE GREY - LIVE IN UNITED KINGDOM&quot; is visible in the background, along with stage lighting, Marshall amplifiers, and drum kit. The artist is captured mid-performance in what appears to be an energetic live music moment at the festival." height="895" loading="lazy" src="/assets/isle-of-wight-festival/2025/IMG_4260.jpeg" width="1200"/></a></figure>
 </div>

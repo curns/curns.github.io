@@ -1,8 +1,7 @@
 ---
-title: "Festival diaries, day one"
+title: "Festival diaries 2024, day one"
 layout: post
 date: 2024-06-21 12:57:00 +0000
-modified_date: 2024-07-24
 categories: isle-of-wight-festival
 category_label: "Isle of Wight Festival"
 tags:

@@ -1,8 +1,7 @@
 ---
-title: "Festival Diaries 2025: Day Three"
+title: "Festival diaries 2025, day three"
 layout: post
 date: 2025-06-22 22:46:00 +0000
-modified_date: 2025-07-08
 categories: isle-of-wight-festival
 category_label: "Isle of Wight Festival"
 tags:

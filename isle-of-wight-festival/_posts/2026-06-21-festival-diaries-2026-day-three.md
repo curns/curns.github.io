@@ -2,7 +2,6 @@
 title: "Festival diaries 2026, day three"
 layout: post
 date: 2026-06-21 22:28:00 +0000
-modified_date: 2026-06-25
 categories: isle-of-wight-festival
 category_label: "Isle of Wight Festival"
 tags:

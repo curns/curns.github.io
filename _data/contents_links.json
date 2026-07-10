@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T19:47:02.577244+00:00",
-  "total_word_count": 25270,
+  "generated_at": "2026-07-10T20:56:04.893076+00:00",
+  "total_word_count": 25265,
   "entries": [
     {
       "title": "archive",
@@ -289,7 +289,7 @@
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival diaries, day one",
+      "title": "Festival diaries 2024, day one",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2024/06/21/festival-diaries-day-one.html",
       "source_path": "isle-of-wight-festival/_posts/2024-06-21-festival-diaries-day-one.md",
       "kind": "post",
@@ -302,26 +302,26 @@
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival diaries, day two",
+      "title": "Festival diaries 2024, day two",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2024/06/22/festival-diaries-day-two.html",
       "source_path": "isle-of-wight-festival/_posts/2024-06-22-festival-diaries-day-two.md",
       "kind": "post",
       "date": "2024-06-22",
       "date_display": "22/06/2024",
-      "word_count": 1568,
+      "word_count": 1565,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2024/06/festival-diaries-day-two/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival diaries, day three",
+      "title": "Festival diaries 2024, day three",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2024/06/23/festival-diaries-day-three.html",
       "source_path": "isle-of-wight-festival/_posts/2024-06-23-festival-diaries-day-three.md",
       "kind": "post",
       "date": "2024-06-23",
       "date_display": "23/06/2024",
-      "word_count": 842,
+      "word_count": 840,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2024/06/festival-diaries-day-three/",
       "musak_match": "date-cutoff",
@@ -367,7 +367,7 @@
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival D\u00e9j\u00e0 Vu: Packing Optimism and Leaving the Wellies Behind",
+      "title": "Festival d\u00e9j\u00e0 vu: packing optimism and leaving the wellies behind",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/19/festival-deja-vu-packing-optimism-and-leaving-the-wellies-behind.html",
       "source_path": "isle-of-wight-festival/_posts/2025-06-19-festival-deja-vu-packing-optimism-and-leaving-the-wellies-behind.md",
       "kind": "post",
@@ -380,7 +380,7 @@
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival Diaries 2025: Day One",
+      "title": "Festival diaries 2025, day one",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/20/festival-diaries-2025-day-one.html",
       "source_path": "isle-of-wight-festival/_posts/2025-06-20-festival-diaries-2025-day-one.md",
       "kind": "post",
@@ -393,7 +393,7 @@
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival Diaries 2025: Day Two",
+      "title": "Festival diaries 2025, day two",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/21/festival-diaries-2025-day-two.html",
       "source_path": "isle-of-wight-festival/_posts/2025-06-21-festival-diaries-2025-day-two.md",
       "kind": "post",
@@ -406,7 +406,7 @@
       "curnow_match": "front-matter"
     },
     {
-      "title": "Festival Diaries 2025: Day Three",
+      "title": "Festival diaries 2025, day three",
       "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/22/festival-diaries-2025-day-three.html",
       "source_path": "isle-of-wight-festival/_posts/2025-06-22-festival-diaries-2025-day-three.md",
       "kind": "post",

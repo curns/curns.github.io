@@ -1,8 +1,7 @@
 ---
-title: "Festival Déjà Vu: Packing Optimism and Leaving the Wellies Behind"
+title: "Festival déjà vu: packing optimism and leaving the wellies behind"
 layout: post
 date: 2025-06-19 13:24:57 +0000
-modified_date: 2026-06-29
 categories: isle-of-wight-festival
 category_label: "Isle of Wight Festival"
 tags:
