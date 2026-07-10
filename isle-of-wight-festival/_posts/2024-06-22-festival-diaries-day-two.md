@@ -14,7 +14,6 @@ longform: true
 star: false
 ---
 <div class="festival-gallery">
-<figure><a href="/assets/isle-of-wight-festival/2024/IMG_9972.jpeg"><img alt="The Pet Shop Boys stage at the Isle of Wight festival 2024." height="674" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_9972.jpeg" width="1200"/></a><figcaption>Pet Shop Boys</figcaption></figure>
 <figure><a href="/assets/isle-of-wight-festival/2024/IMG_9906.jpeg"><img alt="Jake Shears at the Isle of Wight Festival 2024" height="1200" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_9906.jpeg" width="1200"/></a><figcaption>Jake Shears</figcaption></figure>
 <figure><a href="/assets/isle-of-wight-festival/2024/IMG_9920.jpeg"><img alt="S Club at the Isle of Wight festival 2024" height="674" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_9920.jpeg" width="1200"/></a><figcaption>S Club</figcaption></figure>
 </div>

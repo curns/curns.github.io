@@ -14,7 +14,6 @@ longform: true
 star: false
 ---
 <div class="festival-gallery">
-<figure><a href="/assets/isle-of-wight-festival/2024/IMG_0052.jpeg"><img alt="Green Day performing at Isle of Wight 2024" height="674" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_0052.jpeg" width="1200"/></a><figcaption>Green Day</figcaption></figure>
 <figure><a href="/assets/isle-of-wight-festival/2024/IMG_0024.jpeg"><img alt="Mcfly performing at Isle of Wight Festival 2024" height="674" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_0024.jpeg" width="1200"/></a><figcaption>Mcfly</figcaption></figure>
 <figure><a href="/assets/isle-of-wight-festival/2024/IMG_9997.jpeg"><img alt="Beverley Knight performing at Isle of Wight Festival 2024" height="674" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_9997.jpeg" width="1200"/></a><figcaption>Beverley Knight</figcaption></figure>
 </div>
