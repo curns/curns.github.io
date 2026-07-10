@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T23:04:15.885253+00:00",
-  "total_word_count": 17217,
+  "generated_at": "2026-07-10T19:47:02.577244+00:00",
+  "total_word_count": 25270,
   "entries": [
     {
       "title": "archive",
@@ -289,6 +289,45 @@
       "curnow_match": "front-matter"
     },
     {
+      "title": "Festival diaries, day one",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2024/06/21/festival-diaries-day-one.html",
+      "source_path": "isle-of-wight-festival/_posts/2024-06-21-festival-diaries-day-one.md",
+      "kind": "post",
+      "date": "2024-06-21",
+      "date_display": "21/06/2024",
+      "word_count": 695,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2024/06/festival-diaries-day-one/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival diaries, day two",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2024/06/22/festival-diaries-day-two.html",
+      "source_path": "isle-of-wight-festival/_posts/2024-06-22-festival-diaries-day-two.md",
+      "kind": "post",
+      "date": "2024-06-22",
+      "date_display": "22/06/2024",
+      "word_count": 1568,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2024/06/festival-diaries-day-two/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival diaries, day three",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2024/06/23/festival-diaries-day-three.html",
+      "source_path": "isle-of-wight-festival/_posts/2024-06-23-festival-diaries-day-three.md",
+      "kind": "post",
+      "date": "2024-06-23",
+      "date_display": "23/06/2024",
+      "word_count": 842,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2024/06/festival-diaries-day-three/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
       "title": "From the 1985 archive: background to BBC Local Radio",
       "github_url": "https://curns.github.io/radio/2024/10/01/Background-To-BBC-Local-Radio.html",
       "source_path": "radio/_posts/2024-10-01-Background-To-BBC-Local-Radio.md",
@@ -324,6 +363,58 @@
       "word_count": 714,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2025/04/high-bar-for-tech/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival D\u00e9j\u00e0 Vu: Packing Optimism and Leaving the Wellies Behind",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/19/festival-deja-vu-packing-optimism-and-leaving-the-wellies-behind.html",
+      "source_path": "isle-of-wight-festival/_posts/2025-06-19-festival-deja-vu-packing-optimism-and-leaving-the-wellies-behind.md",
+      "kind": "post",
+      "date": "2025-06-19",
+      "date_display": "19/06/2025",
+      "word_count": 308,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2025/06/festival-deja-vu-packing-optimism-and-leaving-the-wellies-behind/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival Diaries 2025: Day One",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/20/festival-diaries-2025-day-one.html",
+      "source_path": "isle-of-wight-festival/_posts/2025-06-20-festival-diaries-2025-day-one.md",
+      "kind": "post",
+      "date": "2025-06-20",
+      "date_display": "20/06/2025",
+      "word_count": 679,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2025/06/festival-diaries-2025-day-one/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival Diaries 2025: Day Two",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/21/festival-diaries-2025-day-two.html",
+      "source_path": "isle-of-wight-festival/_posts/2025-06-21-festival-diaries-2025-day-two.md",
+      "kind": "post",
+      "date": "2025-06-21",
+      "date_display": "21/06/2025",
+      "word_count": 473,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2025/06/festival-diaries-2025-day-two/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival Diaries 2025: Day Three",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2025/06/22/festival-diaries-2025-day-three.html",
+      "source_path": "isle-of-wight-festival/_posts/2025-06-22-festival-diaries-2025-day-three.md",
+      "kind": "post",
+      "date": "2025-06-22",
+      "date_display": "22/06/2025",
+      "word_count": 514,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2025/06/festival-diaries-2025-day-three/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
@@ -389,6 +480,45 @@
       "word_count": 720,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/06/showtown-blackpool-history/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival diaries 2026, day one",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2026/06/19/festival-diaries-2026-day-one.html",
+      "source_path": "isle-of-wight-festival/_posts/2026-06-19-festival-diaries-2026-day-one.md",
+      "kind": "post",
+      "date": "2026-06-19",
+      "date_display": "19/06/2026",
+      "word_count": 836,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/festival-diaries-2026-day-one/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival diaries 2026, day two",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2026/06/20/festival-diaries-2026-day-two.html",
+      "source_path": "isle-of-wight-festival/_posts/2026-06-20-festival-diaries-2026-day-two.md",
+      "kind": "post",
+      "date": "2026-06-20",
+      "date_display": "20/06/2026",
+      "word_count": 1070,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/festival-diaries-2026-day-two/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Festival diaries 2026, day three",
+      "github_url": "https://curns.github.io/isle-of-wight-festival/2026/06/21/festival-diaries-2026-day-three.html",
+      "source_path": "isle-of-wight-festival/_posts/2026-06-21-festival-diaries-2026-day-three.md",
+      "kind": "post",
+      "date": "2026-06-21",
+      "date_display": "21/06/2026",
+      "word_count": 1068,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/festival-diaries-2026-day-three/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }

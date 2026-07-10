@@ -545,6 +545,51 @@ button:hover {
     }
 }
 
+.festival-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.75rem;
+    margin: 1.5rem 0 2rem;
+}
+
+.festival-gallery figure {
+    margin: 0;
+}
+
+.festival-gallery img {
+    aspect-ratio: 4 / 3;
+    border-radius: 4px;
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
+
+.festival-gallery figcaption {
+    color: #666;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    margin-top: 0.3rem;
+    text-align: center;
+}
+
+@media screen and (min-width: 700px) {
+    .festival-gallery figure:first-child:nth-last-child(n + 3) {
+        grid-column: span 2;
+    }
+}
+
+.festival-gallery figure:only-child {
+    grid-column: 1 / -1;
+}
+
+.festival-gallery figure:only-child img {
+    aspect-ratio: auto;
+    height: auto;
+    max-height: 440px;
+    object-fit: contain;
+}
+
 .page-content {
   line-height: 1.714285714;
 }

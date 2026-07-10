@@ -9,10 +9,14 @@ title: "archive"
     <ul style="list-style-type: none; padding: 0;">
       {% for category in site.categories %}
         {% assign category_name = category[0] %}
+        {% assign category_label = site.data.category_labels[category_name] %}
+        {% unless category_label %}
+          {% assign category_label = category_name | replace: "-", " " | capitalize %}
+        {% endunless %}
         {% assign post_count = category[1] | size %}
         <li style="margin-bottom: 5px;">
           <a href="{{ site.baseurl }}/category/{{ category_name | slugify }}/" style="text-decoration: none; color: #007bff;">
-            {{ category_name | capitalize }} ({{ post_count }})
+            {{ category_label }} ({{ post_count }})
           </a>
         </li>
       {% endfor %}
