@@ -10,7 +10,7 @@ tags:
 source: curnow.org
 curnow-url: "https://www.curnow.org/2024/06/festival-diaries-day-three/"
 longform: true
-star: false
+star: true
 ---
 <div class="festival-gallery">
 <figure><a href="/assets/isle-of-wight-festival/2024/IMG_0024.jpeg"><img alt="Mcfly performing at Isle of Wight Festival 2024" height="674" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_0024.jpeg" width="1200"/></a><figcaption>Mcfly</figcaption></figure>
