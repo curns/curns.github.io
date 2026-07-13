@@ -5,7 +5,7 @@ categories: reviews
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/06/jesus-christ-superstar-a-game-of-two-halves/'
 longform: true
-star: false
+star: true
 ---
 ![Cast members of Jesus Christ Superstar take their bows on stage at the London Palladium. Photographed from above, the ensemble includes Sam Ryder in the role of Jesus wearing a crown of thorns and a blood-streaked costume, Jesse Tyler Ferguson in an ornate gold military-style jacket representing Herod, a woman in an orange robe, and several other cast members in period and contemporary costumes, all lined up across the stage.](/assets/IMG_9503.jpeg)
 
