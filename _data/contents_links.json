@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T20:56:04.893076+00:00",
-  "total_word_count": 25265,
+  "generated_at": "2026-07-13T10:26:44.297154+00:00",
+  "total_word_count": 26350,
   "entries": [
     {
       "title": "archive",
@@ -519,6 +519,19 @@
       "word_count": 1068,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/06/festival-diaries-2026-day-three/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Jesus Christ Superstar: A Game of Two Halves",
+      "github_url": "https://curns.github.io/reviews/2026/06/24/Jesus-Christ-Superstar-A-Game-Of-Two-Halves.html",
+      "source_path": "reviews/_posts/2026-06-24-Jesus-Christ-Superstar-A-Game-Of-Two-Halves.md",
+      "kind": "post",
+      "date": "2026-06-24",
+      "date_display": "24/06/2026",
+      "word_count": 1085,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/jesus-christ-superstar-a-game-of-two-halves/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
