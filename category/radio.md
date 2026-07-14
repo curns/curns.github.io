@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "radio"
+title: "Radio"
 category: radio
 permalink: /category/radio/
 ---

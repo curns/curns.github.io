@@ -9,7 +9,7 @@ longform: true
 star: true
 ---
 
-There’s been an interesting discussion on the [UK Bloggers discussion list]([http://groups.yahoo.com/group/ukbloggers-discuss/](https://web.archive.org/web/20030412211116/http://groups.yahoo.com/group/ukbloggers-discuss/) today regarding online advertising and if it’s appropriate in the blogging world.
+There’s been an interesting discussion on the [UK Bloggers discussion list](https://web.archive.org/web/20030412211116/http://groups.yahoo.com/group/ukbloggers-discuss/) today regarding online advertising and if it’s appropriate in the blogging world.
 
 I need to put my position into context. I came to the web (and, therefore, to employment) because I truly believe that personal publishing can empower people. To me, the pull of the medium was access to views and interests outside the mainstream. The ability to publish what you had to say without an editor’s red pen. That doesn’t mean that you can ignore the laws of the land but, within an existing legal framework, it is relatively easy and cheap to publish. It’s not easy to guarantee the audience, but that’s a different story. The message is out there, and that’s a starting point (and should be a right in a democratic society). This is a good thing.
 

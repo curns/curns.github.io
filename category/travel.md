@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "travel"
+title: "Travel"
 category: travel
 permalink: /category/travel/
 ---

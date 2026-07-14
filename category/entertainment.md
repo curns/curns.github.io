@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "entertainment"
+title: "Entertainment"
 category: entertainment
 permalink: /category/entertainment/
 ---

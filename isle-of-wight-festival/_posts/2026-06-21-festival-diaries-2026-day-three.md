@@ -11,7 +11,7 @@ tags:
 source: curnow.org
 curnow-url: "https://www.curnow.org/2026/06/festival-diaries-2026-day-three/"
 longform: true
-star: false
+star: true
 ---
 <div class="festival-gallery">
 <figure><a href="/assets/isle-of-wight-festival/2026/IMG_9466.jpeg"><img alt="A large crowd faces the Isle of Wight Festival main stage at dusk during The Cure&#x27;s headline performance. The stage is filled with dramatic white haze and beams of light. The two flanking LED screens display close-ups of a red electric guitar being played, alongside text referencing the band. Trees are visible on the horizon against a pale evening sky. A pink inflatable flamingo can be seen rising above the crowd on the left." height="674" loading="lazy" src="/assets/isle-of-wight-festival/2026/IMG_9466.jpeg" width="1200"/></a></figure>

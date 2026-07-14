@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "media"
+title: "Media"
 category: media
 permalink: /category/media/
 ---

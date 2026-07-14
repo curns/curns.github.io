@@ -10,6 +10,22 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time><span class="relative-date" data-date="{{ page.date | date_to_xmlschema }}"></span>
+      {%- assign primary_category = page.categories | first -%}
+      {%- if primary_category -%}
+        {%- assign primary_category_page = nil -%}
+        {%- for category_page in site.pages -%}
+          {%- if category_page.layout == "category" and category_page.category == primary_category -%}
+            {%- assign primary_category_page = category_page -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+        , filed in&nbsp;
+        {%- if primary_category_page -%}
+          <a href="{{ primary_category_page.url | relative_url }}">{{ primary_category_page.title }}</a>
+        {%- else -%}
+          {{ primary_category | replace: "-", " " | capitalize }}
+        {%- endif -%}
+      {%- endif -%}
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
