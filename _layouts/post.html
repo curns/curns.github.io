@@ -9,7 +9,7 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
-      </time>
+      </time><span class="relative-date" data-date="{{ page.date | date_to_xmlschema }}"></span>
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
@@ -45,3 +45,5 @@ layout: default
     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </div>
+
+<script src="{{ '/assets/relative-dates.js' | relative_url }}" defer></script>
