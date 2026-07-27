@@ -39,4 +39,4 @@ Thus, your web analytics and your ad-impression counts may differ for valid reas
 
 In summary, if you’re doing all the checks and your content systems are inserting the right codes, then your advertising system is doing the best job it can to count the advertisements for you. If it gives you a different number, then you shouldn’t worry too much – there’s an acceptable difference that you can work with.
 
-*Update: It’s taken me over two years to write one of the pieces I suggested above: the one about whether advertising is central to your offering, then you need to think about it in the design process. Read [Get Your Product Right Or Get In The Liferaft](https://www.curnow.org/2008/09/get-your-preoduct-right-or-get-in-the-liferaft/) for some insights.*
+*Update: It’s taken me over two years to write one of the pieces I suggested above: the one about whether advertising is central to your offering, then you need to think about it in the design process. Read [Get Your Product Right Or Get In The Liferaft]({% post_url /advertising/2008-09-05-Get-Your-Product-Right-Or-Get-In-The-Liferaft %}) for some insights.*

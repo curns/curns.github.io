@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T17:28:57.348199+00:00",
-  "total_word_count": 35969,
+  "generated_at": "2026-07-27T18:02:39.396880+00:00",
+  "total_word_count": 37610,
   "entries": [
     {
       "title": "archive",
@@ -221,6 +221,32 @@
       "musak_url": "https://www.musak.org/2006/11/a-blog-is-like-concrete-shoes/",
       "curnow_url": "https://www.curnow.org/2006/11/a-blog-is-like-concrete-shoes/",
       "musak_match": "front-matter",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Hey product manager, thought about the ads?",
+      "github_url": "https://curns.github.io/advertising/2008/07/27/Hey-Product-Manager-Thought-About-The-Ads.html",
+      "source_path": "advertising/_posts/2008-07-27-Hey-Product-Manager-Thought-About-The-Ads.md",
+      "kind": "post",
+      "date": "2008-07-27",
+      "date_display": "27/07/2008",
+      "word_count": 780,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2008/07/hey-product-manager-thought-about-the-ads/",
+      "musak_match": "not-found",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Get your product right or get in the liferaft",
+      "github_url": "https://curns.github.io/advertising/2008/09/05/Get-Your-Product-Right-Or-Get-In-The-Liferaft.html",
+      "source_path": "advertising/_posts/2008-09-05-Get-Your-Product-Right-Or-Get-In-The-Liferaft.md",
+      "kind": "post",
+      "date": "2008-09-05",
+      "date_display": "05/09/2008",
+      "word_count": 861,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2008/09/get-your-preoduct-right-or-get-in-the-liferaft/",
+      "musak_match": "not-found",
       "curnow_match": "front-matter"
     },
     {
