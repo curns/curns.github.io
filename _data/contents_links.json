@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T18:02:39.396880+00:00",
-  "total_word_count": 37610,
+  "generated_at": "2026-07-27T18:16:56.462652+00:00",
+  "total_word_count": 38554,
   "entries": [
     {
       "title": "archive",
@@ -558,6 +558,19 @@
       "word_count": 747,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/01/review-palladium-panto-review/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Reading challenge 2025",
+      "github_url": "https://curns.github.io/everyday/2026/02/16/Reading-Challenge-2025.html",
+      "source_path": "everyday/_posts/2026-02-16-Reading-Challenge-2025.md",
+      "kind": "post",
+      "date": "2026-02-16",
+      "date_display": "16/02/2026",
+      "word_count": 944,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/02/reading-challenge-2025/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
