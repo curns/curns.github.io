@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T10:26:44.297154+00:00",
-  "total_word_count": 26350,
+  "generated_at": "2026-07-27T17:28:57.348199+00:00",
+  "total_word_count": 35969,
   "entries": [
     {
       "title": "archive",
@@ -61,7 +61,7 @@
       "kind": "post",
       "date": "2003-01-04",
       "date_display": "04/01/2003",
-      "word_count": 252,
+      "word_count": 251,
       "musak_url": "https://www.musak.org/2003/01/the-grand-old-duke/",
       "curnow_url": "https://www.curnow.org/2003/01/the-grand-old-duke/",
       "musak_match": "front-matter",
@@ -172,6 +172,19 @@
       "curnow_match": "front-matter"
     },
     {
+      "title": "What is an ad impression?",
+      "github_url": "https://curns.github.io/advertising/2006/06/29/What-Is-An-Ad-Impression.html",
+      "source_path": "advertising/_posts/2006-06-29-What-Is-An-Ad-Impression.md",
+      "kind": "post",
+      "date": "2006-06-29",
+      "date_display": "29/06/2006",
+      "word_count": 1419,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2006/06/what-is-an-ad-impression/",
+      "musak_match": "not-found",
+      "curnow_match": "front-matter"
+    },
+    {
       "title": "Another airport again",
       "github_url": "https://curns.github.io/travel/2006/07/31/Aother-Airport-Again.html",
       "source_path": "travel/_posts/2006-07-31-Aother-Airport-Again.md",
@@ -250,6 +263,84 @@
       "curnow_match": "front-matter"
     },
     {
+      "title": "A Reading Challenge for 2017",
+      "github_url": "https://curns.github.io/everyday/2017/01/29/A-Reading-Challenge-For-2017.html",
+      "source_path": "everyday/_posts/2017-01-29-A-Reading-Challenge-For-2017.md",
+      "kind": "post",
+      "date": "2017-01-29",
+      "date_display": "29/01/2017",
+      "word_count": 727,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/01/reading-challenge-2017/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Will the internet kill television?",
+      "github_url": "https://curns.github.io/advertising/2017/02/21/Will-The-Internet-Kill-Television.html",
+      "source_path": "advertising/_posts/2017-02-21-Will-The-Internet-Kill-Television.md",
+      "kind": "post",
+      "date": "2017-02-21",
+      "date_display": "21/02/2017",
+      "word_count": 509,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/02/will-the-internet-kill-television/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "A Visit to Japan",
+      "github_url": "https://curns.github.io/travel/2017/02/26/A-Visit-To-Japan.html",
+      "source_path": "travel/_posts/2017-02-26-A-Visit-To-Japan.md",
+      "kind": "post",
+      "date": "2017-02-26",
+      "date_display": "26/02/2017",
+      "word_count": 1682,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/02/a-visit-to-japan/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Japan Vacation Retrospective Part 2: Kyoto",
+      "github_url": "https://curns.github.io/travel/2017/02/27/Japan-Vacation-Retrospective-Part-2-Kyoto.html",
+      "source_path": "travel/_posts/2017-02-27-Japan-Vacation-Retrospective-Part-2-Kyoto.md",
+      "kind": "post",
+      "date": "2017-02-27",
+      "date_display": "27/02/2017",
+      "word_count": 1568,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/02/japan-vacation-retrospective-kyoto/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Japan: Final (Food for) Thoughts",
+      "github_url": "https://curns.github.io/travel/2017/03/07/Japan-Final-Food-For-Thoughts.html",
+      "source_path": "travel/_posts/2017-03-07-Japan-Final-Food-For-Thoughts.md",
+      "kind": "post",
+      "date": "2017-03-07",
+      "date_display": "07/03/2017",
+      "word_count": 287,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/03/japan-final-thoughts/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Trusting Technology: Programmatic Advertising and Digital Locks",
+      "github_url": "https://curns.github.io/advertising/2017/04/02/Trusting-Technology-Programmatic-Advertising-And-Digital-Locks.html",
+      "source_path": "advertising/_posts/2017-04-02-Trusting-Technology-Programmatic-Advertising-And-Digital-Locks.md",
+      "kind": "post",
+      "date": "2017-04-02",
+      "date_display": "02/04/2017",
+      "word_count": 1407,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2017/04/trusting-technology-programmatic-advertising/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
       "title": "Stretching from slumber: morning light",
       "github_url": "https://curns.github.io/london/2017/04/10/Stretching-From-Slumber-Morning-Light.html",
       "source_path": "London/_posts/2017-04-10-Stretching-From-Slumber-Morning-Light.md",
@@ -285,6 +376,19 @@
       "word_count": 474,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2020/03/red-rose-radio-in-memory-of-st-pauls-church/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Starlight Express",
+      "github_url": "https://curns.github.io/reviews/2024/06/08/Starlight-Express.html",
+      "source_path": "reviews/_posts/2024-06-08-Starlight-Express.md",
+      "kind": "post",
+      "date": "2024-06-08",
+      "date_display": "08/06/2024",
+      "word_count": 1577,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2024/06/starlight-express/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
@@ -532,6 +636,19 @@
       "word_count": 1085,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/06/jesus-christ-superstar-a-game-of-two-halves/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Beetlejuice: It\u2019s Showtime",
+      "github_url": "https://curns.github.io/reviews/2026/06/29/Beetlejuice-Its-Showtime.html",
+      "source_path": "reviews/_posts/2026-06-29-Beetlejuice-Its-Showtime.md",
+      "kind": "post",
+      "date": "2026-06-29",
+      "date_display": "29/06/2026",
+      "word_count": 444,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/06/beetlejuice-its-showtime/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
