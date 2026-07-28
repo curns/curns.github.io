@@ -6,6 +6,8 @@ source: curnow.org
 curnow-url: 'https://www.curnow.org/2017/04/trusting-technology-programmatic-advertising/'
 longform: true
 star: true
+best_rank: 10
+best_description: "Do you trust a digital lock? Do you trust programmatic advertising? Did anybody ever believe anybody would write that sentence?"
 ---
 Sermon Of the Last Sunday ([#SOLS](https://www.curnow.org/tag/sols/)) was introduced with on-target delivery: the [2017 Reading challenge]({% post_url /everyday/2017-01-29-A-Reading-Challenge-For-2017 %}) and the [first Japan retrospective]({% post_url /travel/2017-02-26-A-Visit-To-Japan %}). Then I got the calendar wrong – thought March had an extra Sunday – and now find myself writing March’s instalment in April. But that’s a technicality, and I’m not letting myself get too concerned with that level of detail. But what to write about?
 

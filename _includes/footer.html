@@ -12,7 +12,7 @@
 <script>
   const currentYear = new Date().getFullYear();
   const totalWords = {{ site.data.contents_links.total_word_count | default: 0 }};
-  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved. Made in Great Britain with ${totalWords} words. Also at <a href="http://curnow.org">curnow.org</a>`;
+  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved. Made in Great Britain with ${totalWords} words. Also as <a href="https://curns.github.io/feed.xml" title="a full text RSS feed">a feed</a> and at <a href="http://curnow.org">curnow.org</a>`;
   document.querySelector('#copyright').innerHTML = copyrightText;
 </script>
 

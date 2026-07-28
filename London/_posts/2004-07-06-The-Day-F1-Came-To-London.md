@@ -6,6 +6,8 @@ source: musak.org
 musak-url: "https://www.musak.org/2004/07/the-day-f1-came-to-london/"
 curnow-url: "https://www.curnow.org/2004/07/the-day-f1-came-to-london/"
 longform: false
+london_rank: 2
+london_description: "Once there was talk of a London-based race, and so Formula 1 took over Regent Street, drawing a vast, good-humoured crowd for an unforgettable burst of noise, spectacle and shared excitement. At the time, I worked just up the road."
 star: false
 ---
 

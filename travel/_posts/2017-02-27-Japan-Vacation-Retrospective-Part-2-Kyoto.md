@@ -6,6 +6,9 @@ source: curnow.org
 curnow-url: 'https://www.curnow.org/2017/02/japan-vacation-retrospective-kyoto/'
 longform: true
 star: false
+next_best: true
+best_rank: 15
+best_description: "A second collection of words and pictures that sums up my 2017 visit to Japan. In this part, I get to ride the bullet train."
 ---
 [Yesterday]({% post_url /travel/2017-02-26-A-Visit-To-Japan %}), as part of my [#sols](https://www.curnow.org/2017/01/hashtag-for-a-new-generation/) project, the sermon was the first part of my [personal Japan holiday retrospective]({% post_url /travel/2017-02-26-A-Visit-To-Japan %}) which covered my initial week in Tokyo.
 

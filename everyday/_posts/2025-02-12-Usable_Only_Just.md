@@ -5,7 +5,7 @@ categories: everyday
 source: curnow.org
 curnow-url: "https://www.curnow.org/2025/02/usable-but-only-just/"
 longform: true
-star: true
+star: false
 ---
 ![IMG_3371](https://github.com/user-attachments/assets/77c85fab-92be-46ab-8e8f-b2bf04a46585)
 

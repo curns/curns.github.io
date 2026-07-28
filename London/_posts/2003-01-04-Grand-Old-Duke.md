@@ -6,7 +6,9 @@ source: musak.org
 musak-url: "https://www.musak.org/2003/01/the-grand-old-duke/"
 curnow-url: "https://www.curnow.org/2003/01/the-grand-old-duke/"
 longform: false
-star: true
+london_rank: 1
+london_description: "You don’t often get to go backstage or look out from the stage at an invisible audience in the stalls, but I had the opportunity to do both at the Duke of York’s Theatre while discovering its history and character."
+star: false
 ---
 
 It is often said that those of us who call London home do not benefit from the great advantages that the capital city brings. People have been heard to suggest that Londoners do not use London. Well, glancing through a copy of this week’s [Time Out](http://www.timeout.com/london/ "London's living guide"), I came across the backstage tour of [The Duke of York’s Theatre](http://www.theambassadors.com/aboutdukeyorks.html) on St Martin’s Lane and decided to go. The tour wasn’t very expensive, lasted almost two hours, and I reckon it must be one of the best-value guided events around.

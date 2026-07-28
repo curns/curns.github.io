@@ -5,7 +5,7 @@ title: "Will 2011 be the year that internet radio will pass traditional radio?"
 source: curnow.org
 curnow-url: "https://www.curnow.org/2011/01/elsewhere-will-2011-be-the-year-that-internet-radio-will-pass-traditional-radio/"
 longform: true
-star: true
+star: false
 ---
 
 In the spirit of keeping things in one place. I just answered my first question on [Quora](https://www.quora.com/profile/Jon-Curnow) a question and answer website that’s hooked into your social network – via Facebook and Twitter. I imagine it’ll become overwhelming pretty quickly as it needs much more engagement than Twitter so, should all the people I follow on Twitter start posting questions, I’m going to end up swamped with questions. Still, so far, so interesting.

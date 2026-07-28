@@ -6,6 +6,9 @@ source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/02/reading-challenge-2025/'
 longform: true
 star: false
+next_best: true
+best_rank: 16
+best_description: "A reflective review of the books I read in 2025. It was a wide-ranging year in books, and my strongest recommendations connect directly to work, place and personal experience."
 ---
 ![Thriller and spy novels arranged by colour on a bookshelf](/assets/everyday/2026/IMG_7849.jpeg)
 

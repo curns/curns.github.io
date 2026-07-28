@@ -1,0 +1,12 @@
+_site/
+.DS_Store
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+.bundle-home/
+vendor/bundle/
+local_reports/
+local_logs/
+__pycache__/
+*.py[cod]

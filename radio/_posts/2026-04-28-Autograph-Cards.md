@@ -5,7 +5,9 @@ categories: radio
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/04/autograph-cards/'
 longform: true
-star: false
+star: true
+best_rank: 3
+best_description: "We used to collect pictures of radio presenters we'd never met. A world of local celebrity, station budgets, sponsors and the culture of pre-internet radio fandom."
 ---
 ![A collage of overlapping black-and-white DJ autograph cards and station promotional flyers from British independent local radio stations of the 1980s. Visible stations include Radio Aire, 2CR Two Counties Radio (signed "Love Sally"), Invicta Radio ("Right Across the County"), Radio Mercury, Northsound Radio, Red Rose Radio, Pennine Radio / Yorkshire Radio Network, Northants 96, Signal Radio, Radio Trent 945, and Leicester Sound. Several cards feature partial photographs of DJs and handwritten dedications.](/assets/AutographCards.jpeg)
 

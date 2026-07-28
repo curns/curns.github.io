@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+/usr/bin/python3 "$repo_root/repo_activity.py" post-commit >/dev/null 2>&1 || true

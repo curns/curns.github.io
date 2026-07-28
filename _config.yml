@@ -4,6 +4,8 @@ github_username: curns
 url: https://curns.github.io
 header_pages:
   - about.md
+  - london.md
+  - recommended.md
   - archive.md
 plugins:
   - jekyll-relative-links

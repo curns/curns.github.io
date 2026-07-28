@@ -5,7 +5,7 @@ categories: advertising
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2006/06/what-are-page-impressions/'
 longform: true
-star: true
+star: false
 ---
 For anybody who works with web-based content, the “impression” is a very important metric. It used to be that the world talked about “hits”, but I think we’ve moved on from that: it’s the least descriptive and most open-to-abuse metric by which we measure successful web content.
 

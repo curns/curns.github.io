@@ -6,7 +6,7 @@ source: musak.org
 musak-url: "https://www.musak.org/2006/11/children-in-need-is-britains-version-of-thanksgiving/"
 curnow-url: "https://www.curnow.org/2006/11/children-in-need-is-britains-version-of-thanksgiving/"
 longform: true
-star: true
+star: false
 ---
 [Children In Need](http://www.bbc.co.uk/pudsey/) is Britain’s version of Thanksgiving. It comes around every November, and it changes the television schedules (not always for the better). And that’s about where the similarities end, but they say you start a piece of writing with a punchy statement to hook your audience. So, there you go. Thank me later.
 

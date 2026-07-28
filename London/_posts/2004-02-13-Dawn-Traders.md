@@ -6,7 +6,7 @@ source: musak.org
 musak-url: "https://www.musak.org/2004/02/dawn-traders/"
 curnow-url: "https://www.curnow.org/2004/02/dawn-traders/"
 longform: true
-star: true
+star: false
 ---
 
 Yesterday, I rose at 4 a.m. and took a taxi to [London’s Heathrow Airport](https://www.heathrow.com "link to the official site for Heathrow Airport"). This is not an uncommon thing for me to have to do. However, I must have been a little more awake than usual, as I started to pay attention to much more than I normally would on the drive to the airport.  

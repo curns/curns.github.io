@@ -7,6 +7,8 @@ musak-url: "https://www.musak.org/2006/11/a-blog-is-like-concrete-shoes/"
 curnow-url: "https://www.curnow.org/2006/11/a-blog-is-like-concrete-shoes/"
 longform: true
 star: true
+best_rank: 7
+best_description: "After a while, a blog becomes like a pair of concrete shoes. It weighs you down and you begin to sink. That’s what happened at one point on my sites. I wanted to post daily. I wanted to build that sense of personal history. But I couldn’t. It was too much, so it faded."
 ---
 
 [On Monday]({% post_url /entertainment/2006-11-20-Children-In-Need-Britains-Thanksgiving %}) I blew some of the cobwebs off the site and actually posted something of length that wasn’t a link to another site. I blamed the urge to write on reading *The Guardian* on my flight to Finland and that might be relevant, but I suspect it’s also something to do with the current state of the blogs I read.
