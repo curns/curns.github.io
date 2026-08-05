@@ -6,7 +6,7 @@ robots: noindex, nofollow, noarchive
 sitemap: false
 ---
 
-<p>This page lists equivalent versions of these posts on GitHub Pages, musak.org, and curnow.org where they exist. GitHub has {{ site.data.contents_links.total_word_count }} words currently published.</p>
+<p>This page lists equivalent versions of these posts on GitHub Pages, musak.org, and curnow.org where they exist. GitHub has <span data-site-word-count>…</span> words currently published.</p>
 
 <p>Blank cells mean no verified equivalent page has been confirmed yet.</p>
 

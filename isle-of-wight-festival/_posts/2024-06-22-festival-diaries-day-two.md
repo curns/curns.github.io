@@ -3,6 +3,7 @@ title: "Festival diaries 2024, day two"
 layout: post
 date: 2024-06-22 12:08:00 +0000
 categories: isle-of-wight-festival
+location: 'Newport, Isle of Wight'
 category_label: "Isle of Wight Festival"
 tags:
   - "festival"
@@ -11,9 +12,6 @@ source: curnow.org
 curnow-url: "https://www.curnow.org/2024/06/festival-diaries-day-two/"
 longform: true
 star: false
-next_best: true
-best_rank: 17
-best_description: "Performers, food, fatigue and a critique of how big stages serve their audiences. Everything you need from a festival review!"
 ---
 <div class="festival-gallery">
 <figure><a href="/assets/isle-of-wight-festival/2024/IMG_9906.jpeg"><img alt="Jake Shears at the Isle of Wight Festival 2024" height="1200" loading="lazy" src="/assets/isle-of-wight-festival/2024/IMG_9906.jpeg" width="1200"/></a><figcaption>Jake Shears</figcaption></figure>

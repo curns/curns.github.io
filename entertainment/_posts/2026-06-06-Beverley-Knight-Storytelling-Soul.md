@@ -2,11 +2,12 @@
 title: 'Beverley Knight: Storytelling Soul'
 layout: post
 categories: entertainment
+location: 'Blackpool, England'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/06/beverley-knight-storytelling-soul/'
 longform: true
 star: true
-best_rank: 8
+best_rank: 10
 best_description: "Beverley Knight was Born To Perform, and I saw her in Blackpool. It was a concert organised around Beverley Knight’s life story, connecting soul, survival and musical theatre."
 ---
 ![Beverley Knight performing on stage at a concert in Blackpool as part of her Born To Perform Tour. She stands centre stage wearing a black leather outfit with fishnet tights and heeled boots, holding a microphone. Behind her, a full band is visible, including keyboard, guitar, and drum players, beneath dramatic red stage lighting and a swagged curtain backdrop.](/assets/IMG_9144.jpeg)

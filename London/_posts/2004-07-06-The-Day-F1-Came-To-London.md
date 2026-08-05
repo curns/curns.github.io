@@ -2,6 +2,7 @@
 layout: post
 title: "The day F1 came to London"
 categories: London
+location: 'London'
 source: musak.org
 musak-url: "https://www.musak.org/2004/07/the-day-f1-came-to-london/"
 curnow-url: "https://www.curnow.org/2004/07/the-day-f1-came-to-london/"

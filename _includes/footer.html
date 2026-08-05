@@ -9,11 +9,16 @@
   &copy;  
 </p>
 
+<script src="{{ '/assets/site-stats.js' | relative_url }}"></script>
 <script>
   const currentYear = new Date().getFullYear();
-  const totalWords = {{ site.data.contents_links.total_word_count | default: 0 }};
-  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved. Made in Great Britain with ${totalWords} words. Also as <a href="https://curns.github.io/feed.xml" title="a full text RSS feed">a feed</a> and at <a href="http://curnow.org">curnow.org</a>`;
+  const totalWords = window.siteStats.totalWordCount;
+  const formattedTotalWords = new Intl.NumberFormat('en-GB').format(totalWords);
+  const copyrightText = `&copy; Jon Curnow ${currentYear}. All rights reserved. Made in Great Britain with ${formattedTotalWords} words. Also as <a href="https://curns.github.io/feed.xml" title="a full text RSS feed">a feed</a> and at <a href="http://curnow.org">curnow.org</a>`;
   document.querySelector('#copyright').innerHTML = copyrightText;
+  document.querySelectorAll('[data-site-word-count]').forEach((element) => {
+    element.textContent = formattedTotalWords;
+  });
 </script>
 
 

@@ -2,6 +2,7 @@
 title: 'Trafalgar Square vigil'
 layout: post
 categories: London
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2005/07/trafalgar-square-vigil/'
 musak-url: 'https://www.musak.org/2005/07/trafalgar-square-vigil/'

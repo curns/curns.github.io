@@ -2,11 +2,12 @@
 title: 'Review: Palladium Panto 2026'
 layout: post
 categories: reviews
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/01/review-palladium-panto-review/'
 longform: true
 star: true
-best_rank: 6
+best_rank: 8
 best_description: "Now a London institution, the Palladium panto risks leaving first-time visitors outside the joke. Just be warned."
 ---
 ![Elaborate theatrical stage set for 'Sleeping Beauty' pantomime illuminated in vibrant pink, purple, and blue lighting, featuring ornate spinning wheels, clock towers, thread spools, gears, and Gothic architectural elements](/assets/palladium-panto-2026.jpeg)

@@ -4,7 +4,7 @@ title: london
 permalink: /london/
 ---
 
-I’ve been in London for <span id="london-residency-length">32 and a half years</span>, most of my life, and definitely longer than I have lived anywhere else. I don’t know if [Samuel Johnson was correct](https://www.samueljohnson.com/tiredlon.html), but I am not yet bored of London; there is always something new to discover.
+I’ve been in London for <span id="london-residency-length">32 and a half years</span>, most of my life, and definitely longer than I have lived anywhere else. I don’t know if [Samuel Johnson was correct](https://www.samueljohnson.com/tiredlon.html), but I am not yet bored with London; there is always something new to discover.
 
 I love the city and think it rewards curiosity and an open mind. Naturally, London became an integral part of my writing, but here I’ve tried to select pieces that capture the heart and soul of the place: the good and the sad. Generally, it’s a place that will put a smile on your face, whether you’re a visitor, a resident or a true sound-of-the-bells Cockney.
 

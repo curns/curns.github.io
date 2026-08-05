@@ -1,6 +1,7 @@
 ---
 title: "The grand old duke"
 categories: London
+location: 'London'
 layout: post
 source: musak.org
 musak-url: "https://www.musak.org/2003/01/the-grand-old-duke/"

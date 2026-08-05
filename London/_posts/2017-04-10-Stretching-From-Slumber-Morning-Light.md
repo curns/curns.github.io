@@ -2,6 +2,7 @@
 title: 'Stretching from slumber: morning light'
 layout: post
 categories: London
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2017/04/stretching-from-slumber/'
 longform: true
@@ -9,7 +10,7 @@ london_rank: 5
 london_description: "A lyrical journey through half-awake suburbs captures London stretching into the crisp light of a new day."
 star: false
 next_best: true
-best_rank: 12
+best_rank: 14
 best_description: "Travelling to the airport one early morning, I took in the journey, watching the changing lights and half-awake streets come to life. The journey was very much part of the travel experience."
 ---
 The day’s first light has not quite made it above the horizon, but the dawn sky says it’s coming. The city’s suburbs are stretching themselves awake from their slumber. I’m travelling at just the right moment: the morning’s engines have not quite started, and the only thing slowing me down are the red traffic lights on the way, mainly stopping me for imaginary vehicles or invisible people.

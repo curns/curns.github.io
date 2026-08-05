@@ -7,9 +7,6 @@ musak-url: "https://www.musak.org/2003/03/commercial-free/"
 curnow-url: "https://www.curnow.org/2003/03/commercial-free-2/"
 longform: true
 star: false
-next_best: true
-best_rank: 19
-best_description: "In the early days of blogging, we debated what to do about advertising. The debate seems almost quaint to modern eyes."
 ---
 
 There’s been an interesting discussion on the [UK Bloggers discussion list](https://web.archive.org/web/20030412211116/http://groups.yahoo.com/group/ukbloggers-discuss/) today regarding online advertising and if it’s appropriate in the blogging world.

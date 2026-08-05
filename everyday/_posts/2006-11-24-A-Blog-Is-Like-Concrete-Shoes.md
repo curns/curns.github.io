@@ -7,7 +7,7 @@ musak-url: "https://www.musak.org/2006/11/a-blog-is-like-concrete-shoes/"
 curnow-url: "https://www.curnow.org/2006/11/a-blog-is-like-concrete-shoes/"
 longform: true
 star: true
-best_rank: 7
+best_rank: 9
 best_description: "After a while, a blog becomes like a pair of concrete shoes. It weighs you down and you begin to sink. That’s what happened at one point on my sites. I wanted to post daily. I wanted to build that sense of personal history. But I couldn’t. It was too much, so it faded."
 ---
 

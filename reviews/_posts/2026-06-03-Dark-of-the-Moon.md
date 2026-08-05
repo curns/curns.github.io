@@ -2,11 +2,12 @@
 title: "Dark of the Moon"
 layout: post
 categories: reviews
+location: 'London'
 source: curnow.org
 curnow-url: "https://www.curnow.org/2026/06/dark-of-the-moon/"
 longform: true
 star: true
-best_rank: 2
+best_rank: 3
 best_description: "We got tickets for an implausible supernatural story that explored intolerance with a rock-god soundtrack."
 ---
 ![The stage set of Dark of the Moon at the Charing Cross Theatre, bathed in deep blue light. Wooden barn-like structures flank either side of the stage, with a large, luminous full moon glowing at the centre between the buildings. Silhouettes of rooftops and distant mountains are visible in the background, creating an eerie, atmospheric night scene.](/assets/IMG_9079.jpeg)

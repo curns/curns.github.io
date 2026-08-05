@@ -3,6 +3,7 @@ title: "Festival déjà vu: packing optimism and leaving the wellies behind"
 layout: post
 date: 2025-06-19 13:24:57 +0000
 categories: isle-of-wight-festival
+location: 'Newport, Isle of Wight'
 category_label: "Isle of Wight Festival"
 tags:
   - "festival"

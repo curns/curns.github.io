@@ -2,6 +2,7 @@
 title: 'Shropshire radio: a blueprint for the 21st Century?'
 layout: post
 categories: radio
+location: 'Shropshire, England'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2012/03/shropshire-radio-a-blueprint-for-the-21st-century/'
 longform: true

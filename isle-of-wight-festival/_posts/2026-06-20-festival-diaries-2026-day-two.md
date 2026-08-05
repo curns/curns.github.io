@@ -3,6 +3,7 @@ title: "Festival diaries 2026, day two"
 layout: post
 date: 2026-06-20 22:59:00 +0000
 categories: isle-of-wight-festival
+location: 'Newport, Isle of Wight'
 category_label: "Isle of Wight Festival"
 tags:
   - "festival"

@@ -3,6 +3,7 @@ title: "Festival diaries 2026, day three"
 layout: post
 date: 2026-06-21 22:28:00 +0000
 categories: isle-of-wight-festival
+location: 'Newport, Isle of Wight'
 category_label: "Isle of Wight Festival"
 tags:
   - "festival"
@@ -12,7 +13,7 @@ source: curnow.org
 curnow-url: "https://www.curnow.org/2026/06/festival-diaries-2026-day-three/"
 longform: true
 star: true
-best_rank: 9
+best_rank: 11
 best_description: "A hot final day at the festival brought disappointment from Suzanne Vega, unexpected joy from Level 42, and new discoveries away from the main stage."
 ---
 <div class="festival-gallery">

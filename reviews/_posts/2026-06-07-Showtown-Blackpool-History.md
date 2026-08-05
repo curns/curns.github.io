@@ -2,6 +2,7 @@
 title: 'Showtown: Blackpool History'
 layout: post
 categories: reviews
+location: 'Blackpool, England'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/06/showtown-blackpool-history/'
 longform: true

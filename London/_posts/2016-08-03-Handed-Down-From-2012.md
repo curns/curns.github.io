@@ -2,6 +2,7 @@
 title: 'Handed down from 2012'
 layout: post
 categories: London
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2016/08/handed-down/'
 longform: true

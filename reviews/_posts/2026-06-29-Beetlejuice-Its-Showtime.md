@@ -2,11 +2,12 @@
 title: 'Beetlejuice: It’s Showtime'
 layout: post
 categories: reviews
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2026/06/beetlejuice-its-showtime/'
 longform: false
 star: true
-best_rank: 5
+best_rank: 7
 best_description: "My review of the production’s best local jokes: does a memorable song also make a memorable show? Just don’t ask three times."
 ---
 ![A theatre stage set photographed during a performance of Beetlejuice The Musical, lit in vivid pink, blue, and green stage lighting. At the centre of the stage hangs an illuminated red neon sign reading "Betelgeuse," styled like a vintage marquee, with a flashing chevron arrow beneath it pointing diagonally downward. A large blue rectangular frame structure surrounds the scene, with patterned dark curtains visible behind. Silhouettes of audience members' heads are visible in the foreground, with some holding up phones to photograph the stage.](/assets/reviews/2026/beetlejuice-stage.jpeg)

@@ -3,6 +3,7 @@ title: "Festival diaries 2024, day one"
 layout: post
 date: 2024-06-21 12:57:00 +0000
 categories: isle-of-wight-festival
+location: 'Newport, Isle of Wight'
 category_label: "Isle of Wight Festival"
 tags:
   - "festival"

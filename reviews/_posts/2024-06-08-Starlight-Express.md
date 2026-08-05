@@ -2,12 +2,13 @@
 title: 'Starlight Express'
 layout: post
 categories: reviews
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2024/06/starlight-express/'
 longform: true
 star: false
 next_best: true
-best_rank: 13
+best_rank: 15
 best_description: "A new version of Starlight Express: it’s nostalgic and immersive, with an impressive cast, but I have mixed feelings. Still, I loved it in the end."
 ---
 ![The Starlight Auditorium in Wembley.](/assets/reviews/2024/starlight-auditorium.jpeg)

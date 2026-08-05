@@ -2,11 +2,12 @@
 title: 'Happy birthday BBC Shropshire'
 layout: post
 categories: radio
+location: 'Shropshire, England'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2017/04/happy-birthday-bbc-shropshire/'
 longform: true
 star: true
-best_rank: 18
+best_rank: 20
 best_description: "It was my first proper after-school job. After 32 years on the air, there’s still something special about BBC Local Radio in Shropshire."
 ---
 ![BBC Radio Shropshire logo, 1985](/assets/bbc-radio-shropshire-something-special.png)

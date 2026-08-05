@@ -2,6 +2,7 @@
 title: 'Two minutes silence'
 layout: post
 categories: London
+location: 'London'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2005/07/two-minutes-silence/'
 musak-url: 'https://www.musak.org/2005/07/two-minutes-silence/'
@@ -9,7 +10,7 @@ longform: false
 london_rank: 3
 london_description: "The street outside my Holborn office fell still and silent after the 7 July bombings. London: a vast, diverse city united in remembrance."
 star: true
-best_rank: 4
+best_rank: 6
 best_description: "The street outside my Holborn office fell still and silent after the 7 July bombings. London: a vast, diverse city united in remembrance."
 ---
 Just before 12 noon today, my colleagues and I walked onto the London street outside the Holborn office where we work. It was a bright, hot, sunny day in Central London. The kind of day that has you sweating within moments of being on the street. When we reached street level, we walked into a crowd of people who had come from the buildings all around. These were office workers whose desks are probably just metres from mine, but I don’t see them. I probably walk past them most days as I approach the door to the office, but I just don’t see them. Today, we stood crowded onto the street together.

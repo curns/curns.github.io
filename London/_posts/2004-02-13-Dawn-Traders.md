@@ -2,6 +2,7 @@
 title: 'Dawn traders'
 layout: post
 categories: London
+location: 'London'
 source: musak.org
 musak-url: "https://www.musak.org/2004/02/dawn-traders/"
 curnow-url: "https://www.curnow.org/2004/02/dawn-traders/"

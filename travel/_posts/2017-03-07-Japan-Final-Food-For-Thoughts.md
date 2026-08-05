@@ -2,6 +2,7 @@
 title: 'Japan: Final (Food for) Thoughts'
 layout: post
 categories: travel
+location: 'Japan'
 source: curnow.org
 curnow-url: 'https://www.curnow.org/2017/03/japan-final-thoughts/'
 longform: false
