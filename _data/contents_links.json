@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T09:26:53.759395+00:00",
-  "total_word_count": 43388,
+  "generated_at": "2026-10-19T09:35:19.981120+00:00",
+  "total_word_count": 44136,
   "entries": [
     {
       "title": "archive",
@@ -454,6 +454,32 @@
       "word_count": 474,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2020/03/red-rose-radio-in-memory-of-st-pauls-church/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "The plate that outlasted Safeway",
+      "github_url": "https://curns.github.io/everyday/2021/01/12/The-Plate-That-Outlasted-Safeway.html",
+      "source_path": "everyday/_posts/2021-01-12-The-Plate-That-Outlasted-Safeway.md",
+      "kind": "post",
+      "date": "2021-01-12",
+      "date_display": "12/01/2021",
+      "word_count": 313,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2021/01/the-plate-that-outlasted-safeway/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Elsewhere: World Radio Day",
+      "github_url": "https://curns.github.io/radio/2022/02/13/World-Radio-Day.html",
+      "source_path": "radio/_posts/2022-02-13-World-Radio-Day.md",
+      "kind": "post",
+      "date": "2022-02-13",
+      "date_display": "13/02/2022",
+      "word_count": 435,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2022/02/elsewhere-world-radio-day/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },
