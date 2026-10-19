@@ -12,8 +12,9 @@ tags:
 source: curnow.org
 curnow-url: "https://www.curnow.org/2026/06/festival-diaries-2026-day-three/"
 longform: true
-star: true
-best_rank: 11
+star: false
+next_best: true
+best_rank: 14
 best_description: "A hot final day at the festival brought disappointment from Suzanne Vega, unexpected joy from Level 42, and new discoveries away from the main stage."
 ---
 <div class="festival-gallery">

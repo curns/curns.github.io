@@ -7,7 +7,7 @@ source: curnow.org
 curnow-url: 'https://www.curnow.org/2008/08/moscow-war-advertising-in-a-week/'
 longform: true
 star: true
-best_rank: 4
+best_rank: 6
 best_description: "I went to Moscow to plan an ad-serving implementation as war broke out between Russia and Georgia. My parents were trying to get out of Tbilisi."
 ---
 I suspect that I am in the middle of one of the more (if not the most) interesting two weeks in my working career.

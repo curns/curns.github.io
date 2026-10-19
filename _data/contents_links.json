@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T09:35:19.981120+00:00",
-  "total_word_count": 44136,
+  "generated_at": "2026-10-19T15:32:04.052233+00:00",
+  "total_word_count": 45568,
   "entries": [
     {
       "title": "archive",
@@ -246,6 +246,19 @@
       "word_count": 564,
       "musak_url": "https://www.musak.org/2006/11/children-in-need-is-britains-version-of-thanksgiving/",
       "curnow_url": "https://www.curnow.org/2006/11/children-in-need-is-britains-version-of-thanksgiving/",
+      "musak_match": "front-matter",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "My name\u2019s not Bond",
+      "github_url": "https://curns.github.io/travel/2006/11/22/My-Names-Not-Bond.html",
+      "source_path": "travel/_posts/2006-11-22-My-Names-Not-Bond.md",
+      "kind": "post",
+      "date": "2006-11-22",
+      "date_display": "22/11/2006",
+      "word_count": 671,
+      "musak_url": "https://www.musak.org/2006/11/my-names-not-bond/",
+      "curnow_url": "https://www.curnow.org/2006/11/my-names-not-bond/",
       "musak_match": "front-matter",
       "curnow_match": "front-matter"
     },
@@ -558,6 +571,19 @@
       "word_count": 955,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2024/10/from-the-1985-archive-background-to-bbc-local-radio/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "On diary writing",
+      "github_url": "https://curns.github.io/everyday/2024/11/13/On-Diary-Writing.html",
+      "source_path": "everyday/_posts/2024-11-13-On-Diary-Writing.md",
+      "kind": "post",
+      "date": "2024-11-13",
+      "date_display": "13/11/2024",
+      "word_count": 761,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2024/11/on-diary-writing/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     },

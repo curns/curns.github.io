@@ -7,7 +7,7 @@ curnow-url: "https://www.curnow.org/2025/04/high-bar-for-tech/"
 longform: true
 star: false
 next_best: true
-best_rank: 13
+best_rank: 16
 best_description: "Something useful is heading for the big technology graveyard: a defence of Meta Portal and a reflection on useful technology killed for being insufficiently enormous."
 ---
 

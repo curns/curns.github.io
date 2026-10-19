@@ -8,7 +8,7 @@ curnow-url: 'https://www.curnow.org/2025/09/buenos-aires-four-days-four-stories/
 longform: true
 star: false
 next_best: true
-best_rank: 17
+best_rank: 19
 best_description: "What began in chaos turned into a celebration of Argentina’s food, warmth and effortless charm — proof that even the most delayed journeys can lead to perfect adventures."
 ---
 It’s always been a goal of mine to visit South America, but I’ve never managed it until now. Somehow, we acquired enough Avios points for a return flight to Argentina and so booked a trip that would allow us to explore the country — from the vast, bustling capital city, south to the glaciers and north to the hot, humid waterfalls.
