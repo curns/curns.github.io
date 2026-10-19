@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T15:31:05.444526+00:00",
-  "total_word_count": 41526,
+  "generated_at": "2026-10-19T09:26:53.759395+00:00",
+  "total_word_count": 43388,
   "entries": [
     {
       "title": "archive",
@@ -753,6 +753,32 @@
       "word_count": 444,
       "musak_url": null,
       "curnow_url": "https://www.curnow.org/2026/06/beetlejuice-its-showtime/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Freeze, I\u2019m Ma Baker",
+      "github_url": "https://curns.github.io/entertainment/2026/09/11/Freeze-Im-Ma-Baker.html",
+      "source_path": "entertainment/_posts/2026-09-11-Freeze-Im-Ma-Baker.md",
+      "kind": "post",
+      "date": "2026-09-11",
+      "date_display": "11/09/2026",
+      "word_count": 605,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/09/freeze-im-ma-baker/",
+      "musak_match": "date-cutoff",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Which button does what?",
+      "github_url": "https://curns.github.io/travel/2026/10/02/Which-Button-Does-What.html",
+      "source_path": "travel/_posts/2026-10-02-Which-Button-Does-What.md",
+      "kind": "post",
+      "date": "2026-10-02",
+      "date_display": "02/10/2026",
+      "word_count": 1257,
+      "musak_url": null,
+      "curnow_url": "https://www.curnow.org/2026/10/which-button-does-what/",
       "musak_match": "date-cutoff",
       "curnow_match": "front-matter"
     }
