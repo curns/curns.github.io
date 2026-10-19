@@ -3,7 +3,10 @@ layout: page
 title: hi
 ---
 
-Jon Curnow lives in London and works as a product manager in video advertising. Since 1999, he’s published words on the web; he’s written about all sorts of things — ideas, interests, projects and whatever else caught his attention — across several corners of the web. This site brings some of that writing together in one place. There are currently {{ site.posts | size }} posts collected here; below is a selection.
+Jon Curnow lives in London and works as a product manager in video advertising. Since 1999, he’s published words on the web; he’s written about all sorts of things — ideas, interests, projects and whatever else caught his attention — across several corners of the web.
+
+{% assign latest_post = site.posts | first %}
+This site brings some of that writing together in one place. There are currently {{ site.posts | size }} posts collected here; below is a selection.{% if latest_post %} The most recent post is <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title | escape }}</a> posted on {{ latest_post.date | date: "%-d %B %Y" }}.{% endif %}
 
 <h1>Selected Posts</h1>
 <ul>
