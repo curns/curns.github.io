@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "001983a5c52b2500",
-  "generated_at": "2026-08-07T21:22:44Z",
+  "version": "0152c4ce83410cc5",
+  "generated_at": "2026-10-20T08:14:20Z",
   "posts": [
     {
       "rank": 1,
@@ -24,14 +24,16 @@
       "title": "My Name’s Not Bond",
       "url": "https://www.curnow.org/2006/11/my-names-not-bond/",
       "site": "curnow.org",
-      "published_date": "2006-11-22"
+      "published_date": "2006-11-22",
+      "github_pages_url": "https://curns.github.io/travel/2006/11/22/My-Names-Not-Bond.html"
     },
     {
       "rank": 4,
       "title": "On diary writing",
       "url": "https://www.curnow.org/2024/11/on-diary-writing/",
       "site": "curnow.org",
-      "published_date": "2024-11-13"
+      "published_date": "2024-11-13",
+      "github_pages_url": "https://curns.github.io/everyday/2024/11/13/On-Diary-Writing.html"
     },
     {
       "rank": 5,
@@ -222,7 +224,8 @@
       "title": "Forty",
       "url": "https://www.curnow.org/2010/09/forty/",
       "site": "curnow.org",
-      "published_date": "2010-09-12"
+      "published_date": "2010-09-12",
+      "github_pages_url": "https://curns.github.io/everyday/2010/09/12/Forty.html"
     },
     {
       "rank": 31,
@@ -417,7 +420,8 @@
       "title": "The Plate That Outlasted Safeway",
       "url": "https://www.curnow.org/2021/01/the-plate-that-outlasted-safeway/",
       "site": "curnow.org",
-      "published_date": "2021-01-12"
+      "published_date": "2021-01-12",
+      "github_pages_url": "https://curns.github.io/everyday/2021/01/12/The-Plate-That-Outlasted-Safeway.html"
     },
     {
       "rank": 58,
@@ -447,7 +451,8 @@
       "title": "Another Radio Era Ends",
       "url": "https://www.curnow.org/2009/12/another-radio-era-ends/",
       "site": "curnow.org",
-      "published_date": "2009-12-18"
+      "published_date": "2009-12-18",
+      "github_pages_url": "https://curns.github.io/radio/2009/12/18/Another-Radio-Era-Ends.html"
     },
     {
       "rank": 62,
@@ -695,7 +700,8 @@
       "title": "Elsewhere: World Radio Day",
       "url": "https://www.curnow.org/2022/02/elsewhere-world-radio-day/",
       "site": "curnow.org",
-      "published_date": "2022-02-13"
+      "published_date": "2022-02-13",
+      "github_pages_url": "https://curns.github.io/radio/2022/02/13/World-Radio-Day.html"
     },
     {
       "rank": 96,
@@ -791,7 +797,8 @@
       "title": "What’s Your Moment of 2012?",
       "url": "https://www.curnow.org/2013/01/whats-your-moment-of-2012/",
       "site": "curnow.org",
-      "published_date": "2013-01-27"
+      "published_date": "2013-01-27",
+      "github_pages_url": "https://curns.github.io/london/2013/01/27/Whats-Your-Moment-Of-2012.html"
     },
     {
       "rank": 109,
