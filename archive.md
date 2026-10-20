@@ -48,7 +48,7 @@ After <span id="online-writing-length">31 and a half years</span> of writing onl
 
   <div>
     <h3>Year</h3>
-    <ul class="archive-list">
+    <ul class="archive-list archive-year-list">
       {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
       {% for year in posts_by_year %}
         <li style="margin-bottom: 5px;">

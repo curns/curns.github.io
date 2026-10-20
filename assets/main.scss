@@ -647,6 +647,16 @@ button:hover {
     padding: 0;
 }
 
+.archive-year-list {
+    column-count: 2;
+    column-gap: 16px;
+}
+
+.archive-year-list li {
+    break-inside: avoid;
+    white-space: nowrap;
+}
+
 @media screen and (max-width: 700px) {
     .archive-columns {
         grid-template-columns: 1fr;
