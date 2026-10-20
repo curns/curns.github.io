@@ -27,4 +27,4 @@ Perhaps it was something about Radio 2 in the 1970s that remains underappreciate
 
 Thank you for being a friend. Indeed.
 
-**Update: 22 December** Celebrity broadcasters [pay tribute to Sir Terry Wogan](http://www.guardian.co.uk/media/video/2009/dec/15/terry-wogan-radio-2) | [Terry Wogan signs off from Radio 2 breakfast](http://www.guardian.co.uk/media/2009/dec/18/terry-wogan-signs-off-breakfast) with a crack in the voice
+**Update: 22 December** Celebrity broadcasters [pay tribute to Sir Terry Wogan](http://www.guardian.co.uk/media/video/2009/dec/15/terry-wogan-radio-2) \| [Terry Wogan signs off from Radio 2 breakfast](http://www.guardian.co.uk/media/2009/dec/18/terry-wogan-signs-off-breakfast) with a crack in the voice
