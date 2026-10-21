@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "calendar": "gregorian",
+  "days": [
+    {
+      "id": "back-to-the-future-day",
+      "enabled": true,
+      "dateRule": {
+        "kind": "annual",
+        "month": 10,
+        "day": 21
+      },
+      "title": "Back To The Future Day",
+      "priority": 100,
+      "requiredSongs": [
+        {
+          "id": "back-to-the-future-day-song",
+          "artist": "Huey Lewis & The News",
+          "title": "Back In Time",
+          "album": "Greatest Hits (Remastered)",
+          "recording": {
+            "isrc": "USCA20600526",
+            "appleMusicCatalogIDs": {
+              "gb": "725785376"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "halloween",
+      "enabled": true,
+      "dateRule": {
+        "kind": "annual",
+        "month": 10,
+        "day": 31
+      },
+      "title": "Halloween",
+      "priority": 100,
+      "requiredSongs": [
+        {
+          "id": "halloween-song",
+          "artist": "Danny Elfman",
+          "title": "This Is Halloween",
+          "album": "The Nightmare Before Christmas (Special Edition) [Original Motion Picture Soundtrack]",
+          "recording": {
+            "isrc": "USWD10629955",
+            "appleMusicCatalogIDs": {
+              "gb": "1440662847"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bonfire-night",
+      "enabled": true,
+      "dateRule": {
+        "kind": "annual",
+        "month": 11,
+        "day": 5
+      },
+      "title": "Bonfire Night",
+      "priority": 100,
+      "requiredSongs": [
+        {
+          "id": "bonfire-night-song",
+          "artist": "Billy Joel",
+          "title": "We Didn't Start the Fire",
+          "album": "Greatest Hits, Vol. 3",
+          "recording": {
+            "isrc": "USSM18900217",
+            "appleMusicCatalogIDs": {
+              "gb": "217360702"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
