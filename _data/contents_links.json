@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-20T08:13:51.046154+00:00",
-  "total_word_count": 48594,
+  "total_word_count": 49077,
   "entries": [
     {
       "title": "archive",
@@ -272,6 +272,19 @@
       "word_count": 692,
       "musak_url": "https://www.musak.org/2006/11/a-blog-is-like-concrete-shoes/",
       "curnow_url": "https://www.curnow.org/2006/11/a-blog-is-like-concrete-shoes/",
+      "musak_match": "front-matter",
+      "curnow_match": "front-matter"
+    },
+    {
+      "title": "Our Masks",
+      "github_url": "https://curns.github.io/everyday/2006/11/28/Our-Masks.html",
+      "source_path": "everyday/_posts/2006-11-28-Our-Masks.md",
+      "kind": "post",
+      "date": "2006-11-28",
+      "date_display": "28/11/2006",
+      "word_count": 483,
+      "musak_url": "https://www.musak.org/2006/11/our-masks/",
+      "curnow_url": "https://www.curnow.org/2006/11/our-masks/",
       "musak_match": "front-matter",
       "curnow_match": "front-matter"
     },
